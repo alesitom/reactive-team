@@ -1,14 +1,14 @@
-# reactive-team
+# Reactive Team
 Proyecto React NUMEN
 
 ![reactive-team](https://github.com/alesitom/reactive-team/blob/master/reactive-team.png)
 
 ## Tabla de contenido
 
-- [Dudas](#Dudas-para-revisar-con-Guille-(Tutor)).
-- [Definiciones](#Definiciones-que-tomamos-como-equipo-(son-modificables)).
-- [Ramas](#Ramas-Branches).
-- [Generalidades](#GENERALIDADES).
+- [Dudas](#Dudas-para-revisar-con-Guille-(Tutor))
+- [Definiciones](#Definiciones-que-tomamos-como-equipo-(son-modificables))
+- [Ramas](#Ramas-Branches)
+- [Generalidades](#GENERALIDADES)
 
 
 ### Dudas para revisar con Guille (Tutor)
