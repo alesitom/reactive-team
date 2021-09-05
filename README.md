@@ -58,5 +58,5 @@ Proyecto React NUMEN
 -----------------------------------------------------
 
 ### GENERALIDADES:
-- Call con equipo: Cíclica todos los sábados a las 19 horas a través de canal [Discord](https://discord.gg/aUe5fqZj).
+- Call con equipo: Cíclica todos los sábados a las 19 horas a través de canal [Discord](https://discord.gg/aUe5fqZj)
 - Archivo en FIGMA: [Ver Diseño](https://www.figma.com/file/ptZy1a106K1UbSFh1O4v93/Food-store-template-(Community)?node-id=0%3A1)
