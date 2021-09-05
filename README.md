@@ -39,3 +39,8 @@ Proyecto React NUMEN
     tellAFriend
     foot
     resources -- en esta vamos a incluir los recursos como imágenes, fuentes, etc.
+
+-----------------------------------------------------
+GENERALIDADES:
+	Call con equipo: Cíclica todos los sábados a las 19 horas a través de canal discord.
+	Archivo en FIGMA: https://www.figma.com/file/ptZy1a106K1UbSFh1O4v93/Food-store-template-(Community)?node-id=0%3A1
