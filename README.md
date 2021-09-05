@@ -5,8 +5,8 @@ Proyecto React NUMEN
 
 ## Tabla de contenido
 
-- [Dudas](#Dudas-para-revisar-con-Guille-(Tutor))
-- [Definiciones](#Definiciones-que-tomamos-como-equipo-(son-modificables))
+- [Dudas](#Dudas-para-revisar-con-Guille-Tutor)
+- [Definiciones](#Definiciones-que-tomamos-como-equipo-son-modificables)
 - [Ramas](#Ramas-Branches)
 - [Generalidades](#GENERALIDADES)
 
