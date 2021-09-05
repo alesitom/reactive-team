@@ -39,7 +39,8 @@ Proyecto React NUMEN
 
 ### Ramas-Branches:
 - PRINCIPALES:
-  - dev y master
+  - master (versión para entregar)
+  - dev    (versión en desarrollo)
     
 - SECCIONES DE LA WEB:
   - warning
