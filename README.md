@@ -17,6 +17,7 @@ Proyecto React NUMEN
 3. ¿Como manejamos el css que cada uno irá generando? Luego mergeamos en un único archivo css global? O podríamos tener lo que se cruce en uno solo, ej, color, breakpoints, mediaqueries, etc. en uno general y lo particular en css sueltos? (para no tener que retrabajar cada uno lo que sea cross /core)
 4. Instagram, podemos usar api de la app? o mockup local?
 
+
 ### Definiciones que tomamos como equipo (son modificables)
 1. CSS puro:
     - Armar mediaqueries/breakpoints
@@ -31,6 +32,7 @@ Proyecto React NUMEN
 	  - DL: 1440px
 2. Deseable utilizar SASS
 3. Desarrollamos misma temática propuesta por profesor/numen
+
 
 ### Ramas-Branches:
 - PRINCIPALES:
@@ -49,6 +51,7 @@ Proyecto React NUMEN
   - tellAFriend
   - foot
   - resources -- en esta vamos a incluir los recursos como imágenes, fuentes, etc.
+
 
 -----------------------------------------------------
 ### GENERALIDADES:
