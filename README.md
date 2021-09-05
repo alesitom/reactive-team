@@ -1,6 +1,8 @@
 # reactive-team
 Proyecto React NUMEN
 
+![reactive-team](https://github.com/alesitom/reactive-team/blob/master/reactive-team.png)
+
 ## Tabla de contenido
 
 - [Dudas](#Dudas-para-revisar-con-Guille-(Tutor)).
