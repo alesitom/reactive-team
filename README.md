@@ -92,8 +92,16 @@ Proyecto React NUMEN
 -----------------------------------------------------
 
 ### Componentes de la Web
--
--
+1. Sección 1:
+![Sección 1](https://github.com/alesitom/reactive-team/blob/a6e5e409aaa2e2552c8980809f980531ebb5c518/components%20to%20develop/Componente%201.png)
+2. Sección 2:
+![Sección 2](https://github.com/alesitom/reactive-team/blob/a6e5e409aaa2e2552c8980809f980531ebb5c518/components%20to%20develop/Componente%202.png)
+3. Seccion 3: 
+![Sección 3](https://github.com/alesitom/reactive-team/blob/a6e5e409aaa2e2552c8980809f980531ebb5c518/components%20to%20develop/Componente%203.png)
+4. Seccion 4:
+![Sección 4](https://github.com/alesitom/reactive-team/blob/a6e5e409aaa2e2552c8980809f980531ebb5c518/components%20to%20develop/Componente%204.png)
+5. Sección 5:
+![Sección 5](https://github.com/alesitom/reactive-team/blob/a6e5e409aaa2e2552c8980809f980531ebb5c518/components%20to%20develop/Componente%205.png)
 -----------------------------------------------------
 
 ### Etapas:
