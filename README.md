@@ -35,7 +35,7 @@ Proyecto React NUMEN
 	  - T: 768px
 	  - DS: 1024px
 	  - DM: 1366px
-	  - DL: 1440px
+	  - DL: 1440px 
 2. Deseable utilizar SASS
 3. Desarrollamos misma temática propuesta por profesor/numen
 
@@ -97,7 +97,7 @@ Proyecto React NUMEN
 -----------------------------------------------------
 
 ### Etapas:
-- [ ] Inicialización del Proyecto React
+- [X] Inicialización del Proyecto React
 - [X] Definición y Elección de Componentes
 - [X] Creación de Ramas
 - [ ] Unión de Ramas
