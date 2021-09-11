@@ -56,6 +56,11 @@ Proyecto React NUMEN
 - PRINCIPALES:
   - master (versión para entregar)
   - dev    (versión en desarrollo)
+- SECUNDARIAS:
+  - Hugo
+  - Ale
+  - Augusto
+  - Braian
     
 - SECCIONES DE LA WEB:
   - warning
