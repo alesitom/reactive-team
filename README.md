@@ -12,7 +12,7 @@ Proyecto React NUMEN
 - [Generalidades](#Generalidades)
 - [Docs](#Docs)
 - [Componentes de la Web](#Componentes)
-- [Sprints](#Sprints)
+- [Etapas](#Etapas)
 
 -----------------------------------------------------
 
@@ -91,7 +91,7 @@ Proyecto React NUMEN
 -
 -----------------------------------------------------
 
-### Sprints:
+### Etapas:
 - [ ] Inicialización del Proyecto React
 - [ ] Definición y Elección de Componentes
 - [ ] Creación de Ramas
