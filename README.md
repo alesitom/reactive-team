@@ -9,6 +9,7 @@ Proyecto React NUMEN
 - [Definiciones](#Definiciones-que-tomamos-como-equipo-son-modificables)
 - [Ramas](#Ramas-Branches)
 - [Generalidades](#GENERALIDADES)
+- [Docs](#DOCS)
 
 -----------------------------------------------------
 
@@ -61,3 +62,9 @@ Proyecto React NUMEN
 ### GENERALIDADES:
 - Call con equipo: Cíclica todos los sábados a las 19 horas a través de canal [Discord](https://discord.gg/aUe5fqZj)
 - Archivo en FIGMA: [Ver Diseño](https://www.figma.com/file/ptZy1a106K1UbSFh1O4v93/Food-store-template-(Community)?node-id=0%3A1)
+
+-----------------------------------------------------
+
+### DOCS
+- Consignas del Proyecto: [Ver DPF](https://github.com/alesitom/reactive-team/blob/2e1a5be933721cd099adb33e0f460acd5d589526/docs/Proyecto%20React.pdf)
+- Discribución de Archivos: [Ver Imagen](https://github.com/alesitom/reactive-team/blob/2e1a5be933721cd099adb33e0f460acd5d589526/docs/Estructura%20de%20archivos.png)
