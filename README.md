@@ -99,7 +99,7 @@ Proyecto React NUMEN
 ### Etapas:
 - [ ] Inicialización del Proyecto React
 - [X] Definición y Elección de Componentes
-- [ ] Creación de Ramas
+- [X] Creación de Ramas
 - [ ] Unión de Ramas
 - [ ] Pruebas de funcionamiento integral y arreglos
 - [ ] Puesta en Producción
