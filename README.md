@@ -8,8 +8,10 @@ Proyecto React NUMEN
 - [Dudas](#Dudas-para-revisar-con-Guille-Tutor)
 - [Definiciones](#Definiciones-que-tomamos-como-equipo-son-modificables)
 - [Ramas](#Ramas-Branches)
-- [Generalidades](#GENERALIDADES)
-- [Docs](#DOCS)
+- [Generalidades](#Generalidades)
+- [Docs](#Docs)
+- [Componentes de la Web](#Componentes)
+- [Sprints](#Sprints)
 
 -----------------------------------------------------
 
@@ -38,7 +40,7 @@ Proyecto React NUMEN
 
 -----------------------------------------------------
 
-### Ramas-Branches:
+### Ramas-Branches
 - PRINCIPALES:
   - master (versión para entregar)
   - dev    (versión en desarrollo)
@@ -59,14 +61,28 @@ Proyecto React NUMEN
 
 -----------------------------------------------------
 
-### GENERALIDADES:
+### Generalidades
 - Call con equipo: Cíclica todos los sábados a las 19 horas a través de canal [Discord](https://discord.gg/aUe5fqZj)
 - Archivo en FIGMA: [Ver Diseño](https://www.figma.com/file/ptZy1a106K1UbSFh1O4v93/Food-store-template-(Community)?node-id=0%3A1)
 
 -----------------------------------------------------
 
-### DOCS
-- Consignas del Proyecto: 
-![Ver DPF](https://github.com/alesitom/reactive-team/blob/2e1a5be933721cd099adb33e0f460acd5d589526/docs/Proyecto%20React.pdf)
+### Docs
+- Consignas del Proyecto: [Ver DPF](https://github.com/alesitom/reactive-team/blob/2e1a5be933721cd099adb33e0f460acd5d589526/docs/Proyecto%20React.pdf)
 - Discribución de Archivos:
 ![Ver Imagen](https://github.com/alesitom/reactive-team/blob/2e1a5be933721cd099adb33e0f460acd5d589526/docs/Estructura%20de%20archivos.png)
+
+-----------------------------------------------------
+
+### Componentes
+-
+-
+-----------------------------------------------------
+
+### Sprints:
+[ ] Inicialización del Proyecto React
+[ ] Definición y Elección de Componentes
+[ ] Creación de Ramas
+[ ] Unión de Ramas
+[ ] Pruebas de funcionamiento integral y Arreglos
+[ ] Puesta en Producción
