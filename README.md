@@ -66,5 +66,7 @@ Proyecto React NUMEN
 -----------------------------------------------------
 
 ### DOCS
-- Consignas del Proyecto: [Ver DPF](https://github.com/alesitom/reactive-team/blob/2e1a5be933721cd099adb33e0f460acd5d589526/docs/Proyecto%20React.pdf)
-- Discribución de Archivos: [Ver Imagen](https://github.com/alesitom/reactive-team/blob/2e1a5be933721cd099adb33e0f460acd5d589526/docs/Estructura%20de%20archivos.png)
+- Consignas del Proyecto: 
+![Ver DPF](https://github.com/alesitom/reactive-team/blob/2e1a5be933721cd099adb33e0f460acd5d589526/docs/Proyecto%20React.pdf)
+- Discribución de Archivos:
+![Ver Imagen](https://github.com/alesitom/reactive-team/blob/2e1a5be933721cd099adb33e0f460acd5d589526/docs/Estructura%20de%20archivos.png)
