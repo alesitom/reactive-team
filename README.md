@@ -80,9 +80,9 @@ Proyecto React NUMEN
 -----------------------------------------------------
 
 ### Sprints:
-[ ] Inicialización del Proyecto React
-[X] Definición y Elección de Componentes
-[ ] Creación de Ramas
-[ ] Unión de Ramas
-[ ] Pruebas de funcionamiento integral y Arreglos
-[ ] Puesta en Producción
+- [ ] Inicialización del Proyecto React
+- [] Definición y Elección de Componentes
+- [ ] Creación de Ramas
+- [ ] Unión de Ramas
+- [ ] Pruebas de funcionamiento integral y Arreglos
+- [ ] Puesta en Producción
