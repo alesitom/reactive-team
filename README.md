@@ -7,6 +7,7 @@ Proyecto React NUMEN
 
 - [Dudas](#Dudas-para-revisar-con-Guille-Tutor)
 - [Definiciones](#Definiciones-que-tomamos-como-equipo-son-modificables)
+- [Estilos Generales](#Estilos-Generales)
 - [Ramas](#Ramas-Branches)
 - [Generalidades](#Generalidades)
 - [Docs](#Docs)
@@ -37,6 +38,17 @@ Proyecto React NUMEN
 	  - DL: 1440px
 2. Deseable utilizar SASS
 3. Desarrollamos misma temática propuesta por profesor/numen
+
+-----------------------------------------------------
+
+### Estilos Generales
+- Colores
+  - Primary: #FF8126
+  - Background: #FFFFFF
+  - Success: #C2E8CE
+  - Danger: #E5C0C0
+  - Warning: #E2E2BE
+  - Info: #C0C8E5
 
 -----------------------------------------------------
 
@@ -84,5 +96,6 @@ Proyecto React NUMEN
 - [ ] Definición y Elección de Componentes
 - [ ] Creación de Ramas
 - [ ] Unión de Ramas
-- [ ] Pruebas de funcionamiento integral y Arreglos
+- [ ] Pruebas de funcionamiento integral y arreglos
 - [ ] Puesta en Producción
+- [ ] Mejoras e implementaciones extras
