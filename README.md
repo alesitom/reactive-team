@@ -17,10 +17,8 @@ Proyecto React NUMEN
 -----------------------------------------------------
 
 ### Dudas para revisar con Guille (Tutor)
-1. Podemos usar sass? (wish)
-2. Cual es el boton de compra? (buy now?)
-3. ¿Como manejamos el css que cada uno irá generando? Luego mergeamos en un único archivo css global? O podríamos tener lo que se cruce en uno solo, ej, color, breakpoints, mediaqueries, etc. en uno general y lo particular en css sueltos? (para no tener que retrabajar cada uno lo que sea cross /core)
-4. Instagram, podemos usar api de la app? o mockup local?
+1. ¿Como manejamos el css que cada uno irá generando? Luego mergeamos en un único archivo css global? O podríamos tener lo que se cruce en uno solo, ej, color, breakpoints, mediaqueries, etc. en uno general y lo particular en css sueltos? (para no tener que retrabajar cada uno lo que sea cross /core)
+2. Instagram, podemos usar api de la app? o mockup local?
 
 -----------------------------------------------------
 
@@ -38,6 +36,7 @@ Proyecto React NUMEN
 	  - DL: 1440px 
 2. Deseable utilizar SASS
 3. Desarrollamos misma temática propuesta por profesor/numen
+4. En la carpeta **resources** estan las fuentes, logos, ilustraciones, imágenes diferenciados por cada componente
 
 -----------------------------------------------------
 
@@ -56,6 +55,7 @@ Proyecto React NUMEN
 - PRINCIPALES:
   - master (versión para entregar)
   - dev    (versión en desarrollo)
+
 - SECUNDARIAS:
   - Hugo
   - Ale
@@ -104,16 +104,17 @@ Proyecto React NUMEN
   - Tomado por: **Aún nadie**
   - Estado: **Por hacer**
 
-### Componente 1:
+#### Componente 1:
 ![Componente 1](https://github.com/alesitom/reactive-team/blob/a6e5e409aaa2e2552c8980809f980531ebb5c518/components%20to%20develop/Componente%201.png)
-### Componente 2:
+#### Componente 2:
 ![Componente 2](https://github.com/alesitom/reactive-team/blob/a6e5e409aaa2e2552c8980809f980531ebb5c518/components%20to%20develop/Componente%202.png)
-### Componente 3:
+#### Componente 3:
 ![Componente 3](https://github.com/alesitom/reactive-team/blob/a6e5e409aaa2e2552c8980809f980531ebb5c518/components%20to%20develop/Componente%203.png)
-### Componente 4:
+#### Componente 4:
 ![Componente 4](https://github.com/alesitom/reactive-team/blob/a6e5e409aaa2e2552c8980809f980531ebb5c518/components%20to%20develop/Componente%204.png)
-### Componente 5:
+#### Componente 5:
 ![Componente 5](https://github.com/alesitom/reactive-team/blob/a6e5e409aaa2e2552c8980809f980531ebb5c518/components%20to%20develop/Componente%205.png)
+
 -----------------------------------------------------
 
 ### Etapas:
