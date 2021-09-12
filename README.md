@@ -55,12 +55,11 @@ Proyecto React NUMEN
   - master (versión para entregar)
   - dev    (versión en desarrollo)
 
-- SECUNDARIAS:
-<p>En estas ramas iremos desarrollando los componentes que cada uno vaya eligiendo</p>
+- SECUNDARIAS: En estas ramas iremos desarrollando los componentes que cada uno vaya eligiendo.
   - hugo
   - ale
   - augusto
-
+  - braian
 
 -----------------------------------------------------
 
