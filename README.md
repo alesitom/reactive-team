@@ -88,31 +88,31 @@ Proyecto React NUMEN
   - Tomado por: **Braian**
   - Estado: **En proceso**
 
-- Componente 2:
+- [Componente 2](#1-Componente-2):
   - Tomado por: **Aún nadie**
   - Estado: **Por hacer**
 
-- Componente 3:
+- [Componente 3](#1-Componente-3):
   - Tomado por: **Aún nadie**
   - Estado: **Por hacer**
 
-- Componente 4:
+- [Componente 4](#1-Componente-4):
   - Tomado por: **Aún nadie**
   - Estado: **Por hacer**
 
-- Componente 5:
+- [Componente 5](#1-Componente-5):
   - Tomado por: **Aún nadie**
   - Estado: **Por hacer**
 
-#### 1. Componente 1:
+### Componente 1:
 ![Componente 1](https://github.com/alesitom/reactive-team/blob/a6e5e409aaa2e2552c8980809f980531ebb5c518/components%20to%20develop/Componente%201.png)
-2. Componente 2:
+### Componente 2:
 ![Componente 2](https://github.com/alesitom/reactive-team/blob/a6e5e409aaa2e2552c8980809f980531ebb5c518/components%20to%20develop/Componente%202.png)
-3. Componente 3:
+### Componente 3:
 ![Componente 3](https://github.com/alesitom/reactive-team/blob/a6e5e409aaa2e2552c8980809f980531ebb5c518/components%20to%20develop/Componente%203.png)
-4. Componente 4:
+### Componente 4:
 ![Componente 4](https://github.com/alesitom/reactive-team/blob/a6e5e409aaa2e2552c8980809f980531ebb5c518/components%20to%20develop/Componente%204.png)
-5. Componente 5:
+### Componente 5:
 ![Componente 5](https://github.com/alesitom/reactive-team/blob/a6e5e409aaa2e2552c8980809f980531ebb5c518/components%20to%20develop/Componente%205.png)
 -----------------------------------------------------
 
