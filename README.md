@@ -10,7 +10,6 @@ Proyecto React NUMEN
 - [Estilos Generales](#Estilos-Generales)
 - [Ramas](#Ramas-Branches)
 - [Generalidades](#Generalidades)
-- [Docs](#Docs)
 - [Componentes](#Componentes)
 - [Etapas](#Etapas)
 
@@ -57,7 +56,7 @@ Proyecto React NUMEN
   - dev    (versión en desarrollo)
 
 - SECUNDARIAS:
-En estas ramas iremos desarrollando los componentes que cada uno vaya eligiendo
+<p>En estas ramas iremos desarrollando los componentes que cada uno vaya eligiendo</p>
   - hugo
   - ale
   - augusto
@@ -68,10 +67,6 @@ En estas ramas iremos desarrollando los componentes que cada uno vaya eligiendo
 ### Generalidades
 - Call con equipo: Cíclica todos los sábados a las 19 horas a través de canal [Discord](https://discord.gg/aUe5fqZj)
 - Archivo en FIGMA: [Ver Diseño](https://www.figma.com/file/ptZy1a106K1UbSFh1O4v93/Food-store-template-(Community)?node-id=0%3A1)
-
------------------------------------------------------
-
-### Docs
 - Consignas del Proyecto: [Ver DPF](https://github.com/alesitom/reactive-team/blob/2e1a5be933721cd099adb33e0f460acd5d589526/docs/Proyecto%20React.pdf)
 - Discribución de Archivos:
 ![Ver Imagen](https://github.com/alesitom/reactive-team/blob/2e1a5be933721cd099adb33e0f460acd5d589526/docs/Estructura%20de%20archivos.png)
