@@ -92,7 +92,7 @@ Proyecto React NUMEN
 -----------------------------------------------------
 
 ### Componentes
-Para no complicarnos y por recomendación de Guille, lo mejor será encargarse cada uno de una parte de la página y desarrollar ese componente conformado con los subcomponentes que nos parezca oportuno.
+Para no complicarnos y por recomendación de Guille, lo mejor será encargarse cada uno de una parte de la página y desarrollar ese componente conformado con los subcomponentes que a cada uno le parezca oportuno.
 Si algún subcomponente se repite en algún otro componente, lo mejor será, para esta primera instancia, hacerlo nuevamente para cada componente, son pocos los casos.
 En la siguiente lista están los componentes a desarrollar, cada uno es libre de tomar el que quiera, mientras este sin ser tomado por nadie más.
 Para indicar que te encargarás de un componente, solo debes reemplazar el texto "aún nadie" por tu nombre.
