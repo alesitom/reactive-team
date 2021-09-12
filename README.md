@@ -81,7 +81,7 @@ Proyecto React NUMEN
 <p>Para no complicarnos y por recomendación de Guille, lo mejor será encargarse cada uno de una parte de la página y desarrollar ese componente conformado con los subcomponentes que a cada uno le parezca oportuno.</p>
 <p>Si algún subcomponente se repite en algún otro componente, lo mejor será, para esta primera instancia, hacerlo nuevamente para cada componente, son pocos los casos.</p>
 <p>En la siguiente lista están los componentes a desarrollar, cada uno es libre de tomar el que quiera, mientras este sin ser tomado por alguien más.</p>
-<p>Para indicar que te encargarás de un componente, solo debes reemplazar el texto "**Aún nadie**" por tu nombre.</p>
+<p>Para indicar que te encargarás de un componente, solo debes reemplazar el texto "<strong>Aún nadie</strong>" por tu nombre.</p>
 <p>Los estados serán <strong>Por hacer</strong>, <strong>En proceso</strong> y <strong>Terminado</strong></p>
 
 - [Componente 1](#Componente-1): 
