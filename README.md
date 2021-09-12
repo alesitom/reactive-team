@@ -60,7 +60,7 @@ Proyecto React NUMEN
   - hugo
   - ale
   - augusto
-  - braian
+
 
 -----------------------------------------------------
 
