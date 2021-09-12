@@ -11,7 +11,7 @@ Proyecto React NUMEN
 - [Ramas](#Ramas-Branches)
 - [Generalidades](#Generalidades)
 - [Docs](#Docs)
-- [Componentes de la Web](#Componentes)
+- [Componentes](#Componentes)
 - [Etapas](#Etapas)
 
 -----------------------------------------------------
@@ -91,21 +91,38 @@ Proyecto React NUMEN
 
 -----------------------------------------------------
 
-### Componentes de la Web
+### Componentes
 Para no complicarnos y por recomendación de Guille, lo mejor será encargarse cada uno de una parte de la página y desarrollar ese componente conformado con los subcomponentes que nos parezca oportuno.
 Si algún subcomponente se repite en algún otro componente, lo mejor será, para esta primera instancia, hacerlo nuevamente para cada componente, son pocos los casos.
 En la siguiente lista están los componentes a desarrollar, cada uno es libre de tomar el que quiera, mientras este sin ser tomado por nadie más.
 Para indicar que te encargarás de un componente, solo debes reemplazar el texto "aún nadie" por tu nombre.
+Los estados serán **Por hacer**, **En proceso** y **Terminado**
 
-1. Componente 1: Tomado por **Braian**
+1. Componente 1: 
+  - Tomado por: **Braian**
+  - Estado: **En proceso**
+
+3. Componente 2: Tomado por **aún nadie**
+  - Tomado por: **Aún nadie**
+  - Estado: **Por hacer**
+
+4. Componente 3: Tomado por **aún nadie**
+  - Tomado por: **Aún nadie**
+  - Estado: **Por hacer**
+
+5. Componente 4:
+  - Tomado por: **Aún nadie**
+  - Estado: **Por hacer**
+
+1. Componente 1:
 ![Componente 1](https://github.com/alesitom/reactive-team/blob/a6e5e409aaa2e2552c8980809f980531ebb5c518/components%20to%20develop/Componente%201.png)
-2. Componente 2: Tomado por **aún nadie**
+2. Componente 2:
 ![Componente 2](https://github.com/alesitom/reactive-team/blob/a6e5e409aaa2e2552c8980809f980531ebb5c518/components%20to%20develop/Componente%202.png)
-3. Componente 3: Tomado por **aún nadie**
+3. Componente 3:
 ![Componente 3](https://github.com/alesitom/reactive-team/blob/a6e5e409aaa2e2552c8980809f980531ebb5c518/components%20to%20develop/Componente%203.png)
-4. Componente 4: Tomado por **aún nadie**
+4. Componente 4:
 ![Componente 4](https://github.com/alesitom/reactive-team/blob/a6e5e409aaa2e2552c8980809f980531ebb5c518/components%20to%20develop/Componente%204.png)
-5. Componente 5: Tomado por **aún nadie**
+5. Componente 5:
 ![Componente 5](https://github.com/alesitom/reactive-team/blob/a6e5e409aaa2e2552c8980809f980531ebb5c518/components%20to%20develop/Componente%205.png)
 -----------------------------------------------------
 
