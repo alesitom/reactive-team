@@ -36,7 +36,7 @@ Proyecto React NUMEN
 	  - DL: 1440px 
 2. Deseable utilizar SASS
 3. Desarrollamos misma temática propuesta por profesor/numen
-4. En la carpeta **resources** estan las fuentes, logos, ilustraciones, imágenes diferenciados por cada componente
+4. En la carpeta **resources** estan las fuentes, la imagen de cada componente a desarrollar junto con todos los logos, ilustraciones, imágenes, etc que se utilice en cada uno de ellos
 
 -----------------------------------------------------
 
