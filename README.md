@@ -36,7 +36,7 @@ Proyecto React NUMEN
 	  - DL: 1440px 
 2. Deseable utilizar SASS
 3. Desarrollamos misma temática propuesta por profesor/numen
-4. En la carpeta **resources** estan las fuentes, la imagen de cada componente a desarrollar junto con todos los logos, ilustraciones, imágenes, etc que se utilice en cada uno de ellos
+4. En la carpeta **resources** estan las fuentes, la imagen de cada componente a desarrollar junto con sus los logos, ilustraciones, imágenes, etc.
 
 -----------------------------------------------------
 
@@ -57,10 +57,11 @@ Proyecto React NUMEN
   - dev    (versión en desarrollo)
 
 - SECUNDARIAS:
-  - Hugo
-  - Ale
-  - Augusto
-  - Braian
+En estas ramas iremos desarrollando los componentes que cada uno vaya eligiendo
+  - hugo
+  - ale
+  - augusto
+  - braian
 
 -----------------------------------------------------
 
