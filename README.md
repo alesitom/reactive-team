@@ -84,23 +84,23 @@ Proyecto React NUMEN
 <p>Para indicar que te encargarás de un componente, solo debes reemplazar el texto "**Aún nadie**" por tu nombre.</p>
 <p>Los estados serán **Por hacer**, **En proceso** y **Terminado**</p>
 
-- [Componente 1](#1-Componente-1): 
+- [Componente 1](#Componente-1): 
   - Tomado por: **Braian**
   - Estado: **En proceso**
 
-- [Componente 2](#1-Componente-2):
+- [Componente 2](#Componente-2):
   - Tomado por: **Aún nadie**
   - Estado: **Por hacer**
 
-- [Componente 3](#1-Componente-3):
+- [Componente 3](#Componente-3):
   - Tomado por: **Aún nadie**
   - Estado: **Por hacer**
 
-- [Componente 4](#1-Componente-4):
+- [Componente 4](#Componente-4):
   - Tomado por: **Aún nadie**
   - Estado: **Por hacer**
 
-- [Componente 5](#1-Componente-5):
+- [Componente 5](#Componente-5):
   - Tomado por: **Aún nadie**
   - Estado: **Por hacer**
 
