@@ -1,0 +1,18 @@
+.container-message{
+    background: var(--success-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.message{
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 0.9rem;
+    margin: 1em auto;
+}
+
+.close{
+    margin: 1em auto;
+    cursor: pointer;
+}
