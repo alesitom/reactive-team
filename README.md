@@ -96,8 +96,8 @@ Proyecto React NUMEN
   - Estado: **Por hacer**
 
 - [Componente 5](#Componente-5):
-  - Tomado por: **Aún nadie**
-  - Estado: **Por hacer**
+  - Tomado por: **Augusto**
+  - Estado: **En proceso**
 
 #### Componente 1:
 ![Componente 1](https://github.com/alesitom/reactive-team/blob/fd37f6cc4e0f42e86702be4afbe99bfb66a2cf76/resources/Componente%201/Componente%201.png)
