@@ -1,0 +1,23 @@
+{
+  "name": "reactive-team",
+  "version": "1.0.0",
+  "description": "Proyecto React NUMEN",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alesitom/reactive-team.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alesitom/reactive-team/issues"
+  },
+  "homepage": "https://github.com/alesitom/reactive-team#readme"
+}
