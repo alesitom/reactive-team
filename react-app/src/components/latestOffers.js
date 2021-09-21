@@ -1,6 +1,6 @@
 import '../styles/cover.css';
 
-function Cover() {
+function LatestOffers() {
   return (
     <div className="container-cover">
       <h2>Support Your Local Artisans</h2>
@@ -12,4 +12,4 @@ function Cover() {
   );
 }
 
-export default Cover;
+export default LatestOffers;

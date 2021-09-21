@@ -1,12 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Message from './components/message';
+import Navbar from './components/navbar';
+import Cover from './components/cover';
+import LatestOffers from './components/latestOffers.js';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Message></Message>
+    <Navbar></Navbar>
+    <Cover></Cover>
+    <LatestOffers/>
   </React.StrictMode>,
   document.getElementById('root')
 );
