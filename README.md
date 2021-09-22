@@ -68,7 +68,7 @@ Proyecto React NUMEN
 - Archivo en FIGMA: [Ver Diseño](https://www.figma.com/file/ptZy1a106K1UbSFh1O4v93/Food-store-template-(Community)?node-id=0%3A1)
 - Consignas del Proyecto: [Ver DPF](https://github.com/alesitom/reactive-team/blob/2e1a5be933721cd099adb33e0f460acd5d589526/docs/Proyecto%20React.pdf)
 - Discribución de Archivos:
-![Ver Imagen](https://github.com/alesitom/reactive-team/blob/2e1a5be933721cd099adb33e0f460acd5d589526/docs/Estructura%20de%20archivos.png)
+![Ver Imagen](https://github.com/alesitom/reactive-team/blob/7c7809e3f75295364d75464195b3ea4cb3265101/docs/Estructura%20de%20archivos.png)
 
 -----------------------------------------------------
 
