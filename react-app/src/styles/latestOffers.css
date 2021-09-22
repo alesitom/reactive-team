@@ -1,3 +1,10 @@
-.class-mine{
-    background-color: red;
+.component-2-title{
+    text-align: center;
+    font-family: 'Cormorant',Georgia, serif;
+    font-weight: 700;
+    font-size: 40px; /*vamos a tener que actualizar esto*/
+    line-height: 48px;
+    margin-top: 10px;
+    color:#1F1F1F;
+
 }

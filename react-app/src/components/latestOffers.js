@@ -2,12 +2,8 @@ import '../styles/latestOffers.css';
 
 function LatestOffers() {
   return (
-    <div className="class-mine">
-      <h2>Support Your Local Artisans</h2>
-      <p>Discover brands and their stories</p>
-      <button>
-        Browse brands
-      </button> 
+    <div className="component-2-title">
+      <h2>Latest Offers</h2>
     </div>
   );
 }
