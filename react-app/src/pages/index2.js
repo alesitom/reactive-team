@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import reportWebVitals from './reportWebVitals';
-import Message from './components/message';
-import Navbar from './components/navbar';
-import Cover from './components/cover';
+import '../styles/index.css';
+import reportWebVitals from '../reportWebVitals';
+import Message from '../components/message';
+import Navbar from '../components/navbar';
+import Cover from '../components/cover';
 
 ReactDOM.render(
   <React.StrictMode>

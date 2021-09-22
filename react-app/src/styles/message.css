@@ -10,9 +10,11 @@
     font-weight: 500;
     font-size: 0.9rem;
     margin: 1em auto;
+    /* padding-left: 10px; */
 }
 
 .close{
-    margin: 1em auto;
+    margin: 1em 0;
+    /* margin-right: 10px; */
     cursor: pointer;
 }
