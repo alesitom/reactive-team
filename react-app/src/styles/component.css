@@ -1,0 +1,55 @@
+/* Los colores son provisorios, para diferenciar cada div.*/
+
+/* Estilos que pertenencen al social-network-footer. */
+
+.container-1{
+    padding-bottom: 150px;
+    height: 100%;
+    width:465px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    background-color: brown;
+}
+.social-network-footer{
+    width:930px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: flex-start;
+    align-items: center;
+    background-color:blueviolet;
+}
+
+.tell-a-friend{
+    padding:0px;
+    margin-top:30px;
+    height: 100px;
+    background-color: chartreuse;
+}
+
+/* Estilos que pertenecen al main-footer, los headings deberían estar alineados con
+cada una de las listas. */
+
+.container-2{    
+    padding: 0;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    margin-top: 64px;}
+
+
+.row {
+    flex-basis: calc(100%6);
+    height: calc(100%-42px);
+    padding-bottom: 42px;
+    display:flex;
+    align-content:flex-end;
+    flex-wrap: wrap;
+}
+
+.li {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+.span{ float:left;}
+
