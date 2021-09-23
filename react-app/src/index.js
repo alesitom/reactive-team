@@ -3,10 +3,12 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
 import LatestOffers from './components/latestOffers.js';
+import WhyChoose from './components/whyChoose.js';
 
 ReactDOM.render(
   <React.StrictMode>
     <LatestOffers/>
+    <WhyChoose />
   </React.StrictMode>,
   document.getElementById('root')
 );

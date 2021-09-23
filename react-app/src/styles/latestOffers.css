@@ -5,6 +5,38 @@
     font-size: 40px; /*vamos a tener que actualizar esto*/
     line-height: 48px;
     margin-top: 10px;
-    color:#1F1F1F;
+    color:#1F1F1F;}
 
+.offer-box-1{
+    border-radius: 20px;
+    background-color: #F7F5F0;
+    width: 270px;
+    height: 332px;
+    margin-left: 55px;
+}
+
+.offer-title{
+    font-family: Poppins, sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    text-align: center;
+    color: #1F1F1F;
+}
+.offer-price{
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FF8126;
+    text-align: center;
+}
+.real-offer-price{
+    font-family: Poppins, sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #656565;
+    text-decoration:line-through;
+    text-align: center;
 }
