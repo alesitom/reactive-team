@@ -2,8 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-import LatestOffers from './components/latestOffers.js';
+import LatestOffers from './components/LatestOffers.js';
 import WhyChoose from './components/whyChoose.js';
+import images from './resources/images';
 
 ReactDOM.render(
   <React.StrictMode>
