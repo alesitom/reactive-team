@@ -1,12 +1,11 @@
-import '../styles/latestOffers.css';
-import '../resources/latestOffers_1.png';
+import '../styles/section-two.css';
 import images from '../resources/images';
 
 function LatestOffers() {
   return (
-    <div>
-    <div className="component-2-title">
-    <h2>Latest <span className="component-2-title-detail">Offers</span></h2>
+    <div className="offer-section">
+    <div className="component-title">
+    <h2>Latest <span className="component-title-detail">Offers</span></h2>
     </div>
     <div className="offer-container">
     <div className="offer-box-1">

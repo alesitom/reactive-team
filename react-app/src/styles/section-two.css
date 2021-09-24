@@ -1,4 +1,8 @@
-.component-2-title{
+.offer-section{
+    margin-top: 80px;
+    margin-bottom: 20px;}
+
+.component-title{
     text-align: center;
     font-family: 'Cormorant',Georgia, serif;
     font-weight: 700;
@@ -7,7 +11,7 @@
     margin-top: 10px;
     color:#1F1F1F;}
 
-.component-2-title-detail{
+.component-title-detail{
     color:#FF8126;
 }
 
@@ -75,4 +79,44 @@
 
 .quick-shop-button:hover{
     background-color: black;
+}
+
+.why-choose-section{
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+.why-choose-container{
+    max-width: 1170px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;}
+
+.why-choose-box{
+    min-width: 210px;
+    width: 210px;}
+
+.why-choose-img-box{
+    width: 45px;
+    height: 45px;
+    margin-bottom: 20px;
+}
+
+.why-choose-title{
+    font-family: Cormorant, serif;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    color:#1F1F1F;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.why-choose-text{
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
 }
