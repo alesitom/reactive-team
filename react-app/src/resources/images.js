@@ -16,6 +16,9 @@ import whoMakes_uva from '../resources/whoMakes_uvas.png';
 import whoMakes_tilde from '../resources/whoMakes_tilde.svg';
 import whoMakes_ellipse from '../resources/whoMakes_ellipse.svg';
 
+//import images for ourCharity section:
+import ourCharity_bakerylogo from '../resources/ourCharity_bakerylogo.svg';
+
 export default{
     "img1": latestOffers_1,
     "img2": latestOffers_2,
@@ -28,5 +31,6 @@ export default{
     "img9": whyChoose_telescopio,
     "img10": whoMakes_uva,
     "img11": whoMakes_tilde,
-    "img12": whoMakes_ellipse
+    "img12": whoMakes_ellipse,
+    "img13": ourCharity_bakerylogo
 }

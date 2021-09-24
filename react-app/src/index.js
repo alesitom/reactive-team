@@ -6,12 +6,15 @@ import LatestOffers from './components/LatestOffers.js';
 import WhyChoose from './components/whyChoose.js';
 import images from './resources/images';
 import WhoMakes from './components/whoMakes';
+import OurCharity from './components/ourCharity';
+
 
 ReactDOM.render(
   <React.StrictMode>
     <LatestOffers/>
     <WhyChoose />
     <WhoMakes />
+    <OurCharity />
   </React.StrictMode>,
   document.getElementById('root')
 );
