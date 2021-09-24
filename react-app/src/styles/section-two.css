@@ -12,8 +12,7 @@
     color:#1F1F1F;}
 
 .component-title-detail{
-    color:#FF8126;
-}
+    color:#FF8126;}
 
 .offer-container{
     max-width: 1170px;
@@ -38,8 +37,7 @@
     font-weight: 600;
     line-height: 27px;
     text-align: center;
-    color: #1F1F1F;
-}
+    color: #1F1F1F;}
 .offer-price{
     font-family: Poppins, sans-serif;
     font-weight: 700;
@@ -48,8 +46,7 @@
     color: #FF8126;
     text-align: center;
     margin-top: 8px;
-    margin-bottom: 10px;
-}
+    margin-bottom: 10px;}
 .real-offer-price{
     font-family: Poppins, sans-serif;
     font-weight: 500;
@@ -57,8 +54,7 @@
     line-height: 27px;
     color: #656565;
     text-decoration:line-through;
-    text-align: center;
-}
+    text-align: center;}
 
 .quick-shop-button {
     background-color: #FF8126;
@@ -78,13 +74,12 @@
     cursor: pointer;}
 
 .quick-shop-button:hover{
-    background-color: black;
-}
+    background-color: black;}
 
 .why-choose-section{
     margin-top: 80px;
-    margin-bottom: 20px;
-}
+    margin-bottom: 20px;}
+
 .why-choose-container{
     max-width: 1170px;
     display: flex;
@@ -101,8 +96,7 @@
 .why-choose-img-box{
     width: 45px;
     height: 45px;
-    margin-bottom: 20px;
-}
+    margin-bottom: 20px;}
 
 .why-choose-title{
     font-family: Cormorant, serif;
@@ -111,12 +105,59 @@
     line-height: 30px;
     color:#1F1F1F;
     text-align: left;
-    margin-bottom: 10px;
-}
+    margin-bottom: 10px;}
 
 .why-choose-text{
     font-family: Poppins, sans-serif;
     font-size: 16px;
     line-height: 24px;
-    font-weight: 400;
+    font-weight: 400;}
+
+.who-makes-section{
+    margin-top: 80px;
+    margin-bottom: 20px;}
+
+.who-makes-container{
+    max-width: 1170px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;}
+
+.who-makes-section-title{
+    font-family: Cormorant, serif;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 48px;
+    color: #FF8126;
+    text-align: left;
 }
+
+.who-makes-section-title span{
+    color:#1F1F1F;}
+
+.who-makes-section-subtitle{
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: #1F1F1F;
+    margin-top: 20px;}
+
+.who-makes-items-box{
+    margin-top: 40px;
+}
+
+.who-makes-items{
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+
+}
+
+.who-makes-box-1{
+    max-width: 530px;}
+
+.who-makes-box-2{
+    max-width: 570px;}

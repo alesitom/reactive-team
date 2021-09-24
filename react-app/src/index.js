@@ -5,11 +5,13 @@ import reportWebVitals from './reportWebVitals';
 import LatestOffers from './components/LatestOffers.js';
 import WhyChoose from './components/whyChoose.js';
 import images from './resources/images';
+import WhoMakes from './components/whoMakes';
 
 ReactDOM.render(
   <React.StrictMode>
     <LatestOffers/>
     <WhyChoose />
+    <WhoMakes />
   </React.StrictMode>,
   document.getElementById('root')
 );

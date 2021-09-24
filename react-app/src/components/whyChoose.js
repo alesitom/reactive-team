@@ -4,8 +4,8 @@ import images from '../resources/images';
 function WhyChoose() {
   return (
     <div className="why-choose-section">
-    <div className="component-title">
-      <h2>Why Choose <span className="component-title-detail">the Premium Bakery Quality</span></h2>
+    <div>
+      <h2 className="component-title">Why Choose <span className="component-title-detail">the Premium Bakery Quality</span></h2>
     </div>
     <div className="why-choose-container">
     <div className="why-choose-box">

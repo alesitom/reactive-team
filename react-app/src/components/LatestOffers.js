@@ -4,8 +4,8 @@ import images from '../resources/images';
 function LatestOffers() {
   return (
     <div className="offer-section">
-    <div className="component-title">
-    <h2>Latest <span className="component-title-detail">Offers</span></h2>
+    <div>
+    <h2 className="component-title">Latest <span className="component-title-detail">Offers</span></h2>
     </div>
     <div className="offer-container">
     <div className="offer-box-1">
