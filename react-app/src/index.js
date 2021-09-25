@@ -8,6 +8,7 @@ import images from './resources/images';
 import WhoMakes from './components/whoMakes';
 import OurCharity from './components/ourCharity';
 import SurpriseSomeone from './components/surpriseSomeone';
+import Instagram from './components/instagram';
 
 
 ReactDOM.render(
@@ -17,6 +18,7 @@ ReactDOM.render(
     <WhoMakes />
     <OurCharity />
     <SurpriseSomeone />
+    <Instagram />
   </React.StrictMode>,
   document.getElementById('root')
 );

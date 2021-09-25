@@ -281,3 +281,25 @@
         
 .surprise-someone-button:hover{
     background-color: black;}
+
+.instagram-section{
+    margin-top: 80px;
+    margin-bottom: 20px;}
+
+.instagram-title{
+    color: #FF8126;
+    font-family: Cormorant, serif;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;}
+
+.instagram-title a{
+    color: #FF8126;
+    font-family: Cormorant, serif;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    text-decoration: underline;}
+
+.instagram-title span{
+    color: #1F1F1F;}
