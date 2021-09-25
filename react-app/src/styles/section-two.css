@@ -235,7 +235,11 @@
     max-width: 570px;}
 
 .surprise-someone-box-2{
-    max-width: 530px;}
+    max-width: 530px;
+    margin-top: 65px;}
+
+.surprise-someone-text-box{
+    margin-top: 20px;}
 
 .surprise-someone-section-title{
     font-family: Cormorant, serif;
@@ -254,3 +258,26 @@
     font-weight: 500;
     line-height: 24px;
     color: #1F1F1F;}
+
+.surprise-someone-button-box{
+    margin-top: 30px;}
+    
+.surprise-someone-button {
+    background-color: #FF8126;
+    /*width: 103px;
+    height: 27px;*/
+    border: none;
+    border-radius: 5px;
+    color: #FFFFFF;
+    padding: 8px 30px;
+    display: block;
+    font-size: 18px;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    text-align: center;
+    /*margin: auto;*/
+    text-decoration: none;
+    cursor: pointer;}
+        
+.surprise-someone-button:hover{
+    background-color: black;}

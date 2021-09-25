@@ -85,11 +85,11 @@ Proyecto React NUMEN
 
 - [Componente 2](#Componente-2):
   - Tomado por: **Ale**
-  - Estado: **En proceso**
+  - Estado: **En proceso - Falta ajustar vista mobile y JS de sumar al carrito.**
 
 - [Componente 3](#Componente-3):
   - Tomado por: **Ale**
-  - Estado: **En proceso**
+  - Estado: **En proceso - Falta ajustar vista mobile.**
 
 - [Componente 4](#Componente-4):
   - Tomado por: **Ale**
