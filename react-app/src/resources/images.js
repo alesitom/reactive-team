@@ -19,6 +19,9 @@ import whoMakes_ellipse from '../resources/whoMakes_ellipse.svg';
 //import images for ourCharity section:
 import ourCharity_bakerylogo from '../resources/ourCharity_bakerylogo.svg';
 
+//import images for surpriseSomeone section:
+import SurpriseSomeone_box from '../resources/surpriseSomeone_box.png';
+
 export default{
     "img1": latestOffers_1,
     "img2": latestOffers_2,
@@ -32,5 +35,6 @@ export default{
     "img10": whoMakes_uva,
     "img11": whoMakes_tilde,
     "img12": whoMakes_ellipse,
-    "img13": ourCharity_bakerylogo
+    "img13": ourCharity_bakerylogo,
+    "img14": SurpriseSomeone_box
 }

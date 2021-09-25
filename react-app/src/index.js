@@ -7,6 +7,7 @@ import WhyChoose from './components/whyChoose.js';
 import images from './resources/images';
 import WhoMakes from './components/whoMakes';
 import OurCharity from './components/ourCharity';
+import SurpriseSomeone from './components/surpriseSomeone';
 
 
 ReactDOM.render(
@@ -15,6 +16,7 @@ ReactDOM.render(
     <WhyChoose />
     <WhoMakes />
     <OurCharity />
+    <SurpriseSomeone />
   </React.StrictMode>,
   document.getElementById('root')
 );

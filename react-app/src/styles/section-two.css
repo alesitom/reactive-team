@@ -128,14 +128,14 @@
 .who-makes-section-title{
     font-family: Cormorant, serif;
     font-size: 40px;
-    font-weight: 500;
+    font-weight: 700;
     line-height: 48px;
     color: #FF8126;
-    text-align: left;
-}
+    text-align: left;}
 
 .who-makes-section-title span{
-    color:#1F1F1F;}
+    color:#1F1F1F;
+    font-weight: 500;}
 
 .who-makes-section-subtitle{
     font-family: Poppins, sans-serif;
@@ -176,7 +176,8 @@
     max-width: 1280px;
     margin-left: auto;
     margin-right: auto;
-    background-color: #6090C3;}
+    background-color: #6090C3;
+    background-image: url('../resources/ourCharity_vectorGroup.png');}
 
 .our-charity-title{
     padding-top: 60px;
@@ -216,3 +217,40 @@
     
 .our-charity-button:hover{
     background-color: black;}
+
+    
+.surprise-someone-section{
+    margin-top: 80px;
+    margin-bottom: 20px;}
+
+.surprise-someone-container{
+    max-width: 1170px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;}
+
+.surprise-someone-box-1{
+    max-width: 570px;}
+
+.surprise-someone-box-2{
+    max-width: 530px;}
+
+.surprise-someone-section-title{
+    font-family: Cormorant, serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    color: #FF8126;
+    text-align: left;}
+
+.surprise-someone-section-title span{
+    color:#1F1F1F;}
+
+.surprise-someone-text{
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    color: #1F1F1F;}

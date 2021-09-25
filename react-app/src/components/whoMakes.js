@@ -17,13 +17,8 @@ function WhoMakes() {
             <li className="who-makes-item-list">Because it supports local jobs.</li>
             <li className="who-makes-item-list">Because it makes more sense for the environment.</li>
         </ul>
-
-
       </div>
-
-
-      </div>
-      
+      </div>      
       <div className="who-makes-box-2">
       <img src={images.img10} alt="img1"/>
       </div>
