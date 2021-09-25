@@ -85,14 +85,14 @@ Proyecto React NUMEN
 
 - [Componente 2](#Componente-2):
   - Tomado por: **Ale**
-  - Estado: **Por hacer**
+  - Estado: **En proceso**
 
 - [Componente 3](#Componente-3):
-  - Tomado por: **Aún nadie**
-  - Estado: **Por hacer**
+  - Tomado por: **Ale**
+  - Estado: **En proceso**
 
 - [Componente 4](#Componente-4):
-  - Tomado por: **Aún nadie**
+  - Tomado por: **Ale**
   - Estado: **Por hacer**
 
 - [Componente 5](#Componente-5):
