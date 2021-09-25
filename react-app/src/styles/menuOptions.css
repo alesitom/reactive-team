@@ -1,0 +1,49 @@
+/* .menu{
+    height: 70px;
+
+}
+
+.menu-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    max-width: 1200px;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.menu-links{
+    height: 100%;
+    transition: transform .5s;
+    display: flex;
+}
+
+.menu-item{
+    position: relative;
+    height: 100%;
+    --clip: polygon(0 0, 100% 0, 100% 0, 0 0);
+    --transform: rotate(-90deg);
+}
+
+.menu-item:hover{
+    --clip: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    --transform: rotate(0);
+}
+
+.menu-link{
+    padding: 0 30px;
+    display: flex;
+    height: 100%;
+    align-items: center;
+}
+
+.menu-arrow{
+    transform: var(--transform);
+    transition: transform .3s;
+}
+
+.menu-nesting{
+    clip-path: var(--clip);
+} */
+

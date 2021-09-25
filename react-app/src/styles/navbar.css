@@ -1,4 +1,4 @@
-header {
+/* header {
     display: grid;
 }
 
@@ -20,4 +20,79 @@ header nav ul{
 
 header nav ul li{
 
+} */
+
+.menu{
+    height: 100px;
+    display: flex;
+}
+
+.menu-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    max-width: 1200px;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.menu-logo{
+    padding: .5rem;
+    margin: 5px;
+}
+.menu-links{
+    height: 100%;
+    transition: transform .5s;
+    display: flex;
+    
+}
+
+.menu-item{
+    position: relative;
+    height: 100%;
+    --clip: polygon(0 0, 100% 0, 100% 0, 0 0);
+    --transform: rotate(-90deg);
+}
+
+.menu-item:hover{
+    --clip: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    --transform: rotate(0);
+}
+
+.menu-link{
+    padding: 0 30px;
+    display: flex;
+    height: 100%;
+    align-items: center;
+}
+
+.menu-link:hover{
+    color: var(--primary-color);
+}
+
+.menu-arrow{
+    transform: var(--transform);
+    transition: transform .3s;
+    display: block;
+    margin-left: 3px;
+}
+
+.menu-nesting{
+    transition: clip-path .3s;
+    clip-path: var(--clip);
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    max-width: max-content;
+    transform: translateY(100%);
+    background-color: #fff;
+}
+
+.menu-link--inside{
+    padding-top: 30px 100px 30px 20px;
+}
+
+.menu-link--inside:hover{
+    color: var(--primary-color);
 }

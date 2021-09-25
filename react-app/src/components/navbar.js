@@ -4,14 +4,13 @@ import MenuOptions from './menuOptions';
 
 function Navbar() {
   return (
-    <header>
-        <img src={logo} alt="logo" className="logo"/>
-        <nav className="menu">
-            <ul>
-                <MenuOptions/>
-            </ul>
-        </nav>
-    </header> 
+    <nav className="menu">
+        {/* <section className=""> */}
+          <img src={logo} alt="Bakery logo" className="menu-logo"/>
+        {/* </section> */}
+        
+        <MenuOptions/>
+    </nav> 
   );
 }
 

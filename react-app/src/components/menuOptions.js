@@ -1,4 +1,5 @@
-import '../styles/menuOptions.css';
+import '../styles/navbar.css';
+import arrow from '../resources/flecha.svg'
 
 function MenuOptions() {
 
@@ -16,12 +17,32 @@ function MenuOptions() {
         { key: 5, href: "#About-Us", desc: "About Us" }
     ];
 
-    const menusMapeados = menus.map(menu => ( <li key={menu.key}><a href={menu.href}>{menu.desc}</a></li> ) );
+    const menusMapeados = menus.map(menu => ( 
+        
+        menu.subMenu ?
+        
+        <li className="menu-item" key={menu.key}>
+            <a className="menu-link" href={menu.href}>{menu.desc} <img src={arrow} className="menu-arrow"/></a>
+
+            <ul className="menu-nesting">
+                {menu.subMenu.map( submenu => (
+                    <li className="menu-inside" key={submenu.key}>
+                        <a className="menu-link menu-link--inside" href={submenu.href}>{submenu.desc}</a>
+                    </li>
+                ))}
+            </ul>
+        </li>
+        :
+        <li className="menu-item" key={menu.key}>
+            <a className="menu-link" href={menu.href}>{menu.desc}</a>
+        </li> 
+        ) 
+    );
 
     return (
-        <>
-        {menusMapeados}
-        </>
+        <ul className="menu-links">
+            {menusMapeados}
+        </ul>
     );
 }
 
