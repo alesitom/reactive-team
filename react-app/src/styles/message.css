@@ -1,4 +1,5 @@
 .container-message{
+    position: relative;
     background: var(--success-color);
     display: flex;
     justify-content: center;
@@ -14,7 +15,10 @@
 }
 
 .close{
+    position: absolute;
+    right: 0;
     margin: 1em 0;
+    margin-right: 10px;
     /* margin-right: 10px; */
     cursor: pointer;
 }

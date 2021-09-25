@@ -1,6 +1,7 @@
 import '../styles/navbar.css';
 import logo from '../resources/logo.svg'
 import MenuOptions from './menuOptions';
+import UserOptions from './userOptions';
 
 function Navbar() {
   return (
@@ -10,6 +11,7 @@ function Navbar() {
         {/* </section> */}
         
         <MenuOptions/>
+        <UserOptions/>
     </nav> 
   );
 }
