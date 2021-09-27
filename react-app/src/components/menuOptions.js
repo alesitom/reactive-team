@@ -1,5 +1,7 @@
 import '../styles/navbar.css';
-import arrow from '../resources/flecha.svg'
+import arrow from '../resources/flecha.svg';
+import hamburger from '../resources/hamburger.svg';
+import '../js/scripts.js';
 
 function MenuOptions() {
 
@@ -18,11 +20,11 @@ function MenuOptions() {
     ];
 
     const menusMapeados = menus.map(menu => ( 
-        
+
         menu.subMenu ?
         
-        <li className="menu-item" key={menu.key}>
-            <a className="menu-link" href={menu.href}>{menu.desc} <img src={arrow} className="menu-arrow"/></a>
+        <li className="menu-item menu-item--show" key={menu.key}>
+            <a className="menu-link" href={menu.href}>{menu.desc} <img src={arrow} className="menu-arrow" alt="arrow" /></a>
 
             <ul className="menu-nesting">
                 {menu.subMenu.map( submenu => (
@@ -36,13 +38,18 @@ function MenuOptions() {
         <li className="menu-item" key={menu.key}>
             <a className="menu-link" href={menu.href}>{menu.desc}</a>
         </li> 
-        ) 
+        )
     );
 
     return (
-        <ul className="menu-links">
-            {menusMapeados}
-        </ul>
+        <>
+            <ul className="menu-links">
+                {menusMapeados}
+            </ul>
+            <div className="menu-hamburger">
+                <img src={hamburger} alt="hamburger menu" className="menu-img"/>
+            </div>
+        </>
     );
 }
 

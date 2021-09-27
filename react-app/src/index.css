@@ -14,6 +14,7 @@
 :root{
   --primary-color: #FF8126;
   --success-color: #C2E8CE;
+  --font-color: #1F1F1F;
   --danger-color: #E5C0C0;
   --warning-color: #E2E2BE;
   --info-color: #C0C8E5;
@@ -25,6 +26,8 @@
   text-decoration: none;
   list-style: none;
   font-family: 'Cormorant';
+  box-sizing: border-box;
+  color: var(--font-color);
   /* -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; */
 }
