@@ -1,12 +1,12 @@
-(function(){
+document.addEventListener('DOMContentLoaded', () => {
+    console.log(document);
     const listElements = document.querySelectorAll('.menu-item--show');
     const list = document.querySelector('.menu-links');
     const menu = document.querySelector('.menu-hamburger');
 
-    alert('listElements: ' + listElements)
-    alert('menu: ' + menu)
-    alert('list: ' + list)
-    alert('extra: '+document.querySelectorAll('.menu'));
+    console.log('listElements: ' + listElements)
+    console.log('menu: ' + menu)
+    console.log('list: ' + list)
 
     const addClick = () => {
         listElements.forEach( element => {
@@ -50,6 +50,4 @@
     }
     
     menu.addEventListener('click', () => list.classList.toggle('menu-links--show'));
-
-})();
-
+});
