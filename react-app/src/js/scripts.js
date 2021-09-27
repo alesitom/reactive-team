@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     window.addEventListener('resize', () => {
-        if(window.innerWidth > 800){
+        if(window.innerWidth > 1024){
             deleteStyleHeight();
             if (list.classList.contains('menu-links--show')){
                 list.classList.remove('menu-links--show');
@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
-    if(window.innerWidth <= 800){
+    if(window.innerWidth <= 1024){
         addClick();
     }
     
