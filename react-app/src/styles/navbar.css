@@ -14,8 +14,9 @@
 }
 
 .menu-logo{
-    padding: .5rem;
-    margin: 5px;
+    height: 80px;
+    /* padding: .5rem;
+    margin: 5px; */
 }
 
 .menu-links{
@@ -37,7 +38,7 @@
 }
 
 .menu-link{
-    padding: 0 30px;
+    padding: 0 15px;
     display: flex;
     height: 100%;
     align-items: center;

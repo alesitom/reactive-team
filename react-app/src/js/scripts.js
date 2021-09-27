@@ -15,7 +15,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 let height = 0;
                 element.classList.toggle('menu-item--active');
 
-                // console.log(subMenu.clientHeight)
                 if (subMenu.clientHeight === 0){
                     height = subMenu.scrollHeight;
                 }
@@ -26,10 +25,10 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     const deleteStyleHeight = () => {
-        listElements.forEach( elemento => {
-            if (elemento.children[1].getAttribute('style')){
-                elemento.children[1].removeAttribute('style');
-                elemento.classList.remove('menu-item--active');
+        listElements.forEach( element => {
+            if (element.children[1].getAttribute('style')){
+                element.children[1].removeAttribute('style');
+                element.classList.remove('menu-item--active');
             }
         });
     }
