@@ -4,9 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const list = document.querySelector('.menu-links');
     const menu = document.querySelector('.menu-hamburger');
 
-    console.log('listElements: ' + listElements)
-    console.log('menu: ' + menu)
-    console.log('list: ' + list)
+    console.log(listElements)
 
     const addClick = () => {
         listElements.forEach( element => {

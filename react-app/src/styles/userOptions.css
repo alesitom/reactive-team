@@ -1,0 +1,19 @@
+.user-options{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.menu-search{
+    padding: 5px;
+    height: 60px;
+}
+
+.menu-profile{
+    padding: 5px;
+    height: 60px;
+}
+
+.menu-cart{
+    padding: 5px;
+    height: 60px;
+}

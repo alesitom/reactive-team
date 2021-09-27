@@ -2,6 +2,7 @@ import '../styles/navbar.css';
 import arrow from '../resources/flecha.svg';
 import hamburger from '../resources/hamburger.svg';
 import '../js/scripts.js';
+import UserOptions from './userOptions';
 
 function MenuOptions() {
 
@@ -46,6 +47,7 @@ function MenuOptions() {
             <ul className="menu-links">
                 {menusMapeados}
             </ul>
+            <UserOptions/>
             <div className="menu-hamburger">
                 <img src={hamburger} alt="hamburger menu" className="menu-img"/>
             </div>
