@@ -1,18 +1,25 @@
 import '../styles/section-two.css';
+import { useEffect, useState } from 'react'
+import axios from 'axios'
 import images from '../resources/images';
 
-function WhoMakes() {
-  const makes =[
-    {key:1, text:"Because it connects us to the land we live on, and to the people who live here."},
-    {key:2, text:"Because it’s more meaningful to cook and eat something made by a person nearby than by some distant corporation."},
-    {key:3, text:"Because good local food makes our corner of the world a better place to live."},
-    {key:4, text:"Because it supports local jobs."},
-    {key:5, text:"Because it makes more sense for the environment."}
-  ];
-const makesMap = makes.map(make => (
-    <li className="who-makes-item-list" key={make.key}>{make.text}</li>
-)
-);
+
+const WhoMakes = () => {
+  const [whoMakesList,setList] = useState({
+      makes : [ /* este array viene del database.json */ ]
+})
+
+
+const url = "http://localhost:3002/makes"
+useEffect(() =>{
+  axios.get(url)
+    .then((response) =>{
+      setList({
+        makes: response.data
+      })
+    })
+},whoMakesList)
+
 return (
   <div className="who-makes-section">
     <div className="who-makes-container">
@@ -21,7 +28,11 @@ return (
     <p className="who-makes-section-subtitle">Our mission is to help grow the local food ecosystem in BC and across Canada. Why?</p>
     <div className="who-makes-items-box">
       <ul className="who-makes-items">
-        {makesMap}
+      {
+        whoMakesList.makes.map(
+          make => <li className="who-makes-item-list" key={make.key}>{make.text}</li>
+        )
+      }
       </ul>
     </div>
     </div>      
@@ -30,6 +41,6 @@ return (
     </div>
     </div>
     </div>
-  );
+    );
 }
-export default WhoMakes;
+export default WhoMakes

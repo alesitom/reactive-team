@@ -11,5 +11,12 @@
     {"key":3, "reasonImage":"/images/whyChoose_manos.svg", "reasonImageDesc":"manos", "reasonTitle":"Support your community", "reasonText":"By buying in bulk from local and Canadian producers you are helping grow our local food ecosystem, creating jobs, and supporting families and entrepreneurs in your community."},
     {"key":4, "reasonImage":"/images/whyChoose_like.svg", "reasonImageDesc":"like", "reasonTitle":"Enjoy the best quality", "reasonText":"We only offer great tasting, all natural foods that are better for you, and organic if possible."},
     {"key":5, "reasonImage":"/images/whyChoose_heart.svg", "reasonImageDesc":"heart", "reasonTitle":"Enjoy Club Level Service", "reasonText":"As a member of our club, we will make sure you are delighted with our service or we will make it right!"}
+    ],
+"makes" : [
+    {"key":"1", "text":"Because it connects us to the land we live on, and to the people who live here."},
+    {"key":"2", "text":"Because it’s more meaningful to cook and eat something made by a person nearby than by some distant corporation."},
+    {"key":"3", "text":"Because good local food makes our corner of the world a better place to live."},
+    {"key":"4", "text":"Because it supports local jobs."},
+    {"key":"5", "text":"Because it makes more sense for the environment."}
     ]
 }
