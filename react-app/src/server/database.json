@@ -1,0 +1,8 @@
+{
+    "offers" : [
+    {"key": "1", "offerTitle": "Pepperoni Pizza", "offerPrice": "$19.99", "realOfferPrice": "$24.99", "offerImage":"/images/latestOffers_1.png"},
+    {"key": "2", "offerTitle": "Baked Pancakes", "offerPrice": "$35.99", "realOfferPrice": "$45.99", "offerImage":"/images/latestOffers_2.png"},
+    {"key": "3", "offerTitle": "Avocado", "offerPrice": "$17.99", "realOfferPrice": "$20.99", "offerImage":"/images/latestOffers_3.png"},
+    {"key": "4", "offerTitle": "Bunch of Orange", "offerPrice": "$24.99", "realOfferPrice": "$29.99", "offerImage":"/images/latestOffers_4.png"}
+    ]
+}
