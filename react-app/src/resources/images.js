@@ -9,10 +9,16 @@ import ourCharity_bakerylogo from '../resources/ourCharity_bakerylogo.svg';
 //import images for surpriseSomeone section:
 import SurpriseSomeone_box from '../resources/surpriseSomeone_box.png';
 
+//import images for instagram:
+import instagramImagen1 from '../resources/imagen1.png';
+
+
+
 export default{
     "img10": whoMakes_uva,
     "img11": whoMakes_tilde,
     "img12": whoMakes_ellipse,
     "img13": ourCharity_bakerylogo,
-    "img14": SurpriseSomeone_box
+    "img14": SurpriseSomeone_box,
+    "img15": instagramImagen1
 }

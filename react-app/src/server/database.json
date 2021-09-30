@@ -18,5 +18,12 @@
     {"key":"3", "text":"Because good local food makes our corner of the world a better place to live."},
     {"key":"4", "text":"Because it supports local jobs."},
     {"key":"5", "text":"Because it makes more sense for the environment."}
+    ],
+"posts" : [
+    {"key":"1", "postImage":"/images/instagram_img1.png"},
+    {"key":"2", "postImage":"/images/instagram_img2.png"},
+    {"key":"3", "postImage":"/images/instagram_img3.png"},
+    {"key":"4", "postImage":"/images/instagram_img4.png"},
+    {"key":"5", "postImage":"/images/instagram_img5.png"}
     ]
 }
