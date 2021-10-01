@@ -1,76 +1,93 @@
-/* Los colores son provisorios, para diferenciar cada div.*/
 
-/* Estilos que pertenecen a Tell a Friend.*/
-
-.container-1{
-    width:1024px;
-    height: 90px;
-    display: flex;
-    background-color: green;
-    }
-
-/* Probar entrar desde el div padre y no ir directamenta a la etiqueta. */
-.title-footer-friend{
-    margin: 1rem;
-    padding: 1rem;
-    text-align: center;
-    flex: auto;
-}
 
 /* Estilos que pertenencen al social-network-footer. */
 
-.social-network-footer{
-    width:1024px;
+*{
+    padding: 0;
+    margin:0;
+}
+
+
+.tell-friend{
+    /* width: 1280px;
+    height: 260px; */
     display: flex;
-    background-color: #ffc4e8f3;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(255,129,38,0.08);
+}
+
+.subtitle{
+    color:black;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    font-style: Poppins;
+}
+
+.social-network-footer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-bottom: 50px;
     }
 
-.container-2{
-    padding: 0 5rem;
-    margin: auto;
-    height: 100%;
-    display: flex;
-    background-color: brown;
-}
-
-.social-media-buttons{
-    width: 53px;
-    height: 66px;
-    padding: 0 3rem;
-    margin: 3rem;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    background-color: blue;
-}
-
-button{
-    width: 100px;
-    height: 67px;
+.social-network-footer > img{
+    margin:6px
 }
 
 /* Estilos que pertenecen al main-footer, los headings deberían estar alineados con
 cada una de las listas. */
 
 
-.container-3{    
-    padding: 0;
-    height: 100%;
-    margin-top: 64px;
+.container-2{    
+    /* width: 1170px;
+    height: 457px; */
     display: flex;
-    align-items: center;
-}
-
-.row {
-    flex-basis: calc(100%6);
-    height: calc(100%-42px);
-    padding-bottom: 42px;
-    display:flex;
-    align-content:flex-end;
+    justify-content: center;
     flex-wrap: wrap;
 }
 
-.li {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.row {
+    padding-top: 50px;
+    display:flex;
+    align-content:flex-end;
+    flex-wrap: wrap;
+    justify-content: center;
+}
 
-.span{ float:left;}
+.col-icon{
+    margin: 14px;
+    margin-left:auto;
+    padding: 8px;
+}
+
+.col-footer-list{
+    padding: 0.2rem;
+    margin: 0rem;
+}
+
+h4{
+    padding-bottom: 12px; 
+}
+
+.file-two{
+    margin-left: 36px;
+}
+
+ul {
+    margin: 21px;
+}
+li {
+    font-family: Verdana, Tahoma, sans-serif;
+    list-style: none;
+    padding-bottom: 12px;
+}
+
+@media screen and (max-width: 500px) {
+    div> ul> li {
+        display: none;
+    }
+}
+
+
 
