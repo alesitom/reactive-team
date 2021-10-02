@@ -383,6 +383,23 @@ img{max-width: 100%;}
 .tell-a-friend-social-media > img{
     margin:0.375em;}
 
+
+.footer-section{
+    margin-top: 5em;/*80px;*/;
+    margin-bottom: 1.25em;/*20px;*/;}
+
+.footer-container{
+    max-width: 1170px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    /* align-items: center; */
+    margin-left: auto;
+    margin-right: auto;
+    align-items:flex-start;
+}
+
 /* Estilos que pertenencen al social-network-footer. */
 
 
@@ -401,7 +418,7 @@ cada una de las listas. */
     flex-wrap: wrap;
 }
 
-.row {
+/* .row {
     padding-top: 50px;
     display:flex;
     align-content:flex-end;
@@ -441,4 +458,4 @@ li {
     div> ul> li {
         display: none;
     }
-}
+} */

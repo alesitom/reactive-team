@@ -9,23 +9,20 @@ import logo from '../images/logo.svg'
 // import fondo from '../images/fondo.svg'
 
 
+
+
+
+
+
 function Footer() {
     return (
-    <>
-
-   
-        <div className="main-footer">
-            
-                <div className="container-2">
-
-                    <div className="row">
-                        {/* Logo */}
-                        <div className="col-icon">
-                            <img src={logo} alt="bakery-logo"/>
-                        </div>
-
-                        {/* Ocassions */}
-                            <ul className="file-two">
+<div className="footer-section">
+    <div className="footer-container">
+        <div className="footer-brand">
+        <img src={logo} alt="bakery-logo"/>
+        </div>
+        <div className="footer-box">
+        <ul className="file-two">
                                 <h4 className="ocassions">Ocassions</h4>
                                 <li>Ocassions</li>
                                 <li>Working from Home</li>
@@ -37,9 +34,9 @@ function Footer() {
                                 <li>Easy Cooking</li>
                                 <li>All Products</li>
                             </ul>
-
+        </div>
                         {/* All Categories */}
-
+        <div className="footer-box">
                             <ul className="file-three">
                                 <h4 className="all">All Categories</h4>
                                 <li>Baking</li>
@@ -56,7 +53,8 @@ function Footer() {
                                 <li>Wine & Cheese</li>
                                 <li>All Products</li>
                             </ul>
-
+        </div>
+        <div className="footer-box">
                         {/* Gifts & Bundles */}
 
                             <ul className="file-four">
@@ -67,24 +65,22 @@ function Footer() {
                                 <li>Spicy Heat Lover's Box</li>
                                 <li>Snacking Sensations</li>
                             </ul>
-
+        </div>
                         {/* Our Brands */}
-
-                            <ul className="file-five">
+        <div className="footer-box">
+        <ul className="file-five">
                                 <h4>Our Brands</h4>
                             </ul>
-
+        </div>
                         {/* About Us */}
-
-                            <ul className="file-six">
-                                <h4 className ="about-us">About Us</h4>
-                            </ul>
-
-                    </div>
-
-                </div>
-            </div></>
-    )
+        <div className="footer-box">
+        <ul className="file-six">
+        <h4 className ="about-us">About Us</h4>
+        </ul>
+        </div>
+</div>           
+</div>
+)
     
 }
 export default Footer;
