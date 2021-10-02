@@ -32,8 +32,6 @@
     {"key":"3", "socialMediaImage":"/images/twitter.svg", "socialMediaImageAlt":"Twitter"},
     {"key":"4", "socialMediaImage":"/images/whatsapp.svg", "socialMediaImageAlt":"WhatsApp"},
     {"key":"5", "socialMediaImage":"/images/messenger.svg", "socialMediaImageAlt":"Messenger"},
-    {"key":"6", "socialMediaImage":"/images/telegram.svg", "socialMediaImageAlt":"Telegram"},
-    {"key":"7", "socialMediaImage":"/images/telegram.svg", "socialMediaImageAlt":"TikTok"}
-
-]
+    {"key":"6", "socialMediaImage":"/images/telegram.svg", "socialMediaImageAlt":"Telegram"}
+    ]
 }
