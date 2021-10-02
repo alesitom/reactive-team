@@ -1,11 +1,6 @@
 import '../styles/cover.css';
-// import swal from 'sweetalert';
-import showAlert from './modal.js'
-
 
 function Cover() {
-  
-
   return (
     <div className="container-cover">
       <h2>Support Your Local Artisans</h2>
