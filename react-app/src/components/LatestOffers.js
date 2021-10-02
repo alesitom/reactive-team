@@ -26,7 +26,7 @@ return (
   <div className="offer-container">
       {
         offerList.offers.map(
-          offer => <div className="offer-box-1" key={offer.key}>
+          offer => <div className="offer-box" key={offer.key}>
           <img src={offer.offerImage} alt={offer.offerImageDesc}/>
           <h4 className="offer-title">{offer.offerTitle}</h4>
           <p className="offer-price">{offer.offerPrice} <span className="real-offer-price">{offer.realOfferPrice}</span>

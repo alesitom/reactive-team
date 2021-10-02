@@ -2,16 +2,16 @@ img{
     max-width: 100%;}
 
 .offer-section{
-    margin-top: 80px;
-    margin-bottom: 20px;}
+    margin-top: 5em;
+    margin-bottom: 1.25em;}
 
 .component-title{
     text-align: center;
     font-family: 'Cormorant',Georgia, serif;
     font-weight: 700;
-    font-size: 40px; /*vamos a tener que actualizar esto*/
-    line-height: 48px;
-    margin-top: 10px;
+    font-size: 2.5rem; /*vamos a tener que actualizar esto*/
+    /*line-height: 48px;*/
+    margin-top: 0.625em; /*10px;*/
     color:#1F1F1F;}
 
 .component-title-detail{
@@ -20,40 +20,44 @@ img{
 .offer-container{
     max-width: 1170px;
     display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: space-evenly;
+    /* align-items: center; */
     margin-left: auto;
     margin-right: auto;}
 
-.offer-box-1{
-    border-radius: 20px;
+.offer-box{
+    /* align-items: center; */
+    border-radius: 1.25em;/*20px;*/;
     background-color: #F7F5F0;
     width: 270px;
     height: 332px;
-    margin-top: 40px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);}
+    margin-top: 2.5em; /*40px;*/
+    box-shadow: 0px 0px 0.625em rgba(0, 0, 0, 0.15);}
 
 .offer-title{
-    margin-top: 20px;
+    margin-top: 1.25em;/*20px;*/
     font-family: Poppins, sans-serif;
-    font-size: 18px;
+    font-size: 1.125rem; /*18px*/
     font-weight: 600;
-    line-height: 27px;
+    line-height: 1.6875em;/*27px;*/
     text-align: center;
     color: #1F1F1F;}
+
 .offer-price{
     font-family: Poppins, sans-serif;
     font-weight: 700;
-    font-size: 24px;
-    line-height: 36px;
+    font-size: 1.5rem;/*24px;*/
     color: #FF8126;
     text-align: center;
-    margin-top: 8px;
-    margin-bottom: 10px;}
+    margin-top: 0.5em;
+    margin-bottom: 0.625em; /*10px;*/}
+
 .real-offer-price{
     font-family: Poppins, sans-serif;
     font-weight: 500;
-    font-size: 18px;
+    font-size: 1.1rem;/*18px;*/
     line-height: 27px;
     color: #656565;
     text-decoration:line-through;
@@ -66,9 +70,9 @@ img{
     border: none;
     border-radius: 5px;
     color: #FFFFFF;
-    padding: 8px 70px;
+    padding: 0.5em 4.375em;
     display: block;
-    font-size: 18px;
+    font-size: 1.125rem;/*18px;*/;
     font-family: Poppins, sans-serif;
     font-weight: 600;
     text-align: center;
@@ -80,8 +84,8 @@ img{
     background-color: black;}
 
 .why-choose-section{
-    margin-top: 80px;
-    margin-bottom: 20px;}
+    margin-top: 5em;/*80px;*/
+    margin-bottom: 1.25em;/*20px;*/}
 
 .why-choose-container{
     max-width: 1170px;
@@ -90,7 +94,7 @@ img{
     justify-content: space-around;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 40px;}
+    margin-top: 2.5em;}
 
 .why-choose-box{
     min-width: 210px;
@@ -99,26 +103,26 @@ img{
 .why-choose-img-box{
     width: 45px;
     height: 45px;
-    margin-bottom: 20px;}
+    margin-bottom: 1.25em;/*20px;*/;}
 
 .why-choose-title{
     font-family: Cormorant, serif;
     font-weight: 700;
-    font-size: 25px;
+    font-size: 1.5625rem;
     line-height: 30px;
     color:#1F1F1F;
     text-align: left;
-    margin-bottom: 10px;}
+    margin-bottom: 0.625em; /*10px;*/}
 
 .why-choose-text{
     font-family: Poppins, sans-serif;
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 1rem;
+    line-height: 1.5em;/*24px;*/
     font-weight: 400;}
 
 .who-makes-section{
-    margin-top: 80px;
-    margin-bottom: 20px;}
+    margin-top: 5em;/*80px;*/;
+    margin-bottom: 1.25em;/*20px;*/;}
 
 .who-makes-container{
     max-width: 1170px;
@@ -128,9 +132,11 @@ img{
     margin-left: auto;
     margin-right: auto;}
 
+
+
 .who-makes-section-title{
     font-family: Cormorant, serif;
-    font-size: 40px;
+    font-size: 2.5rem;
     font-weight: 700;
     line-height: 48px;
     color: #FF8126;
@@ -142,26 +148,28 @@ img{
 
 .who-makes-section-subtitle{
     font-family: Poppins, sans-serif;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 600;
     color: #1F1F1F;
-    margin-top: 20px;}
+    margin-top: 1.25em;/*20px;*/;}
 
 .who-makes-items-box{
-    margin-top: 40px;
+    margin-top: 2.5em;
+    margin-bottom: 2.5em;
     max-width: 530px;}
 
 .who-makes-items{
     font-family: Poppins, sans-serif;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 400;
-    line-height: 24px;}
+    line-height: 1.5em;/*24px;*/
+    margin-left: 2em;}
 
 .who-makes-item-list{
     font-family: Poppins, sans-serif;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 400;
-    padding-left: 5px;
+    padding-left: 0.3125em;
     list-style-image: url('../resources/whoMakes_ellipse.svg');}
 
 
@@ -172,8 +180,8 @@ img{
     max-width: 570px;}
 
 .our-charity-section{
-    margin-top: 80px;
-    margin-bottom: 20px;}
+    margin-top: 5em;/*80px;*/;
+    margin-bottom: 1.25em;/*20px;*/;}
 
 .our-charity-container{
     max-width: 1280px;
@@ -183,11 +191,10 @@ img{
     background-image: url('../resources/ourCharity_vectorGroup.png');}
 
 .our-charity-title{
-    padding-top: 60px;
+    padding-top: 1em;
     font-family: Cormorant, serif;
-    font-size: 40px;
+    font-size: 2.5rem;
     font-weight: 700;
-    line-height: 48px;
     text-align: center;
     color: #FFFFFF;}
 
@@ -195,11 +202,11 @@ img{
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    margin-top: 30px;
-    margin-bottom: 30px;}
+    margin-top: 1.875em;
+    margin-bottom: 1.875em;}
 
 .our-charity-button-box{
-    padding-bottom: 60px;}
+    padding-bottom: 3.75em;}
 
 .our-charity-button {
     background-color: #FF8126;
@@ -208,9 +215,9 @@ img{
     border: none;
     border-radius: 5px;
     color: #FFFFFF;
-    padding: 8px 70px;
+    padding: 0.5em 4.375em;
     display: block;
-    font-size: 18px;
+    font-size: 1.125rem;/*18px;*/;
     font-family: Poppins, sans-serif;
     font-weight: 600;
     text-align: center;
@@ -223,8 +230,8 @@ img{
 
     
 .surprise-someone-section{
-    margin-top: 80px;
-    margin-bottom: 20px;}
+    margin-top: 5em;/*80px;*/;
+    margin-bottom: 1.25em;/*20px;*/;}
 
 .surprise-someone-container{
     max-width: 1170px;
@@ -239,14 +246,14 @@ img{
 
 .surprise-someone-box-2{
     max-width: 530px;
-    margin-top: 65px;}
+    margin-top: 4.0625em;}
 
 .surprise-someone-text-box{
-    margin-top: 20px;}
+    margin-top: 1.25em;/*20px;*/;}
 
 .surprise-someone-section-title{
     font-family: Cormorant, serif;
-    font-size: 40px;
+    font-size: 2.5rem;/*40px;*/
     font-weight: 700;
     line-height: 48px;
     color: #FF8126;
@@ -257,13 +264,13 @@ img{
 
 .surprise-someone-text{
     font-family: Poppins, sans-serif;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 500;
     line-height: 24px;
     color: #1F1F1F;}
 
 .surprise-someone-button-box{
-    margin-top: 30px;}
+    margin-top: 1.875em;}
     
 .surprise-someone-button {
     background-color: #FF8126;
@@ -272,9 +279,9 @@ img{
     border: none;
     border-radius: 5px;
     color: #FFFFFF;
-    padding: 8px 30px;
+    padding: 0.5em 1.875em;
     display: block;
-    font-size: 18px;
+    font-size: 1.125rem;/*18px;*/;
     font-family: Poppins, sans-serif;
     font-weight: 600;
     text-align: center;
@@ -286,23 +293,25 @@ img{
     background-color: black;}
 
 .instagram-section{
-    margin-top: 80px;
-    margin-bottom: 20px;}
+    margin-top: 5em;/*80px;*/;
+    margin-bottom: 1.25em;/*20px;*/;}
 
 .instagram-title{
     color: #FF8126;
     font-family: Cormorant, serif;
-    font-size: 40px;
+    font-size: 2.5rem;/*40px;*/
     font-weight: 700;
-    text-align: center;}
+    text-align: center;
+    word-wrap: break-word;}
 
 .instagram-title a{
     color: #FF8126;
     font-family: Cormorant, serif;
-    font-size: 40px;
+    font-size: 2.5rem;/*40px;*/
     font-weight: 700;
     text-align: center;
-    text-decoration: underline;}
+    text-decoration: underline;
+    word-wrap: break-word;}
 
 .instagram-title span{
     color: #1F1F1F;}
@@ -310,19 +319,37 @@ img{
 .instagram-image-container{
     max-width: 1170px;
     display: flex;
-    flex-wrap: wrap;
+    flex-flow: row wrap;
+    /*flex-wrap: wrap;*/
     justify-content: space-around;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 40px;}
+    }
 
 .instagram-image-detail{
     background-color:#FFFFFF;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     width: 156px;
     height: 156px;
-    padding: 15px;}
+    padding: 0.9375em;/*15px;*/
+    margin-top: 2.5em;;}
 
 .instagram-image-box{
     text-align: center;
     vertical-align: middle;}
+
+@media (max-width:600px){
+    .who-makes-section-title {
+            text-align: center;}
+    .who-makes-container{
+            max-width:90%;}
+    .surprise-someone-container{
+        max-width:90%;}
+    .instagram-container{
+        max-width:90%;}
+    .our-our-charity-button{
+        max-width:90%;}
+    .why-choose-box{
+        margin-top: 2em;
+    }
+    }
