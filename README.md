@@ -116,7 +116,23 @@ Proyecto React NUMEN
 - [X] Inicialización del Proyecto React
 - [X] Definición y Elección de Componentes
 - [X] Creación de Ramas
-- [ ] Unión de Ramas
+- [X] Unión de Ramas
 - [ ] Pruebas de funcionamiento integral y arreglos
 - [ ] Puesta en Producción
 - [ ] Mejoras e implementaciones extras
+
+-----------------------------------------------------
+### Mejoras post primer merge:
+Requisitos:
+1. Al tocar btn Quick Shop y Buy Now que se conecte en backend y sume al globo de notificacion --> Braian
+2. Carousel instagram --> ale
+3. agregar css al footer / tener cuidado que est[a pisando el UL/LI del navbar --> augusto
+
+NTH:
+1. Limitar ancho maximo de cover --> braian
+2. sombra paralela al texto del cover para que se vea en mobile --> braian
+3. btn browse-brands agregar hover --> braian
+4. tell a friend a 1280px; --> ale
+5. Button carrito que no te persiga y ajustar visualmente el numero con el circulo --> braian
+7. tell a friend, ajustes menores + detalle hover --> ale
+6. menu hamburguesa tiene espacio adicional cuando cerras el alert superior --> braian
