@@ -13,7 +13,8 @@ export function showModal(){
             
             swal({
                 text: "Producto added",
-                icon: "success"
+                icon: "success",
+                timer: "3000"
             })
         }
     })
