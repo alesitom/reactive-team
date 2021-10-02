@@ -9,6 +9,8 @@ import WhoMakes from './components/whoMakes';
 import OurCharity from './components/ourCharity';
 import SurpriseSomeone from './components/surpriseSomeone';
 import InstagramLatestPosts from './components/InstagramLatestPosts';
+import Footer from './components/footer';
+import SocialMedia from './components/tellAFriend';
 
 
 ReactDOM.render(
@@ -19,6 +21,8 @@ ReactDOM.render(
     <OurCharity />
     <SurpriseSomeone />
     <InstagramLatestPosts />
+    <SocialMedia />
+    <Footer />
   </React.StrictMode>,
   document.getElementById('root')
 );

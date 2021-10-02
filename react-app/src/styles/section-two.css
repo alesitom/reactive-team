@@ -1,5 +1,4 @@
-img{
-    max-width: 100%;}
+img{max-width: 100%;}
 
 .offer-section{
     margin-top: 5em;
@@ -37,11 +36,10 @@ img{
     box-shadow: 0px 0px 0.625em rgba(0, 0, 0, 0.15);}
 
 .offer-title{
-    margin-top: 1.25em;/*20px;*/
+    margin-top: 0.9em;/*20px;*/
     font-family: Poppins, sans-serif;
     font-size: 1.125rem; /*18px*/
     font-weight: 600;
-    line-height: 1.6875em;/*27px;*/
     text-align: center;
     color: #1F1F1F;}
 
@@ -50,15 +48,12 @@ img{
     font-weight: 700;
     font-size: 1.5rem;/*24px;*/
     color: #FF8126;
-    text-align: center;
-    margin-top: 0.5em;
-    margin-bottom: 0.625em; /*10px;*/}
+    text-align: center;}
 
 .real-offer-price{
     font-family: Poppins, sans-serif;
     font-weight: 500;
     font-size: 1.1rem;/*18px;*/
-    line-height: 27px;
     color: #656565;
     text-decoration:line-through;
     text-align: center;}
@@ -68,15 +63,16 @@ img{
     /*width: 103px;
     height: 27px;*/
     border: none;
+    margin: auto;
+    margin-top: 0.625em; /*10px;*/
     border-radius: 5px;
     color: #FFFFFF;
-    padding: 0.5em 4.375em;
+    padding: 0.5em 4.375em;/*8px 70px;*/
     display: block;
     font-size: 1.125rem;/*18px;*/;
     font-family: Poppins, sans-serif;
     font-weight: 600;
     text-align: center;
-    margin: auto;
     text-decoration: none;
     cursor: pointer;}
 
@@ -353,3 +349,96 @@ img{
         margin-top: 2em;
     }
     }
+
+
+.tell-a-friend-section{
+    margin-top: 5em;/*80px;*/;
+    margin-bottom: 1.25em;/*20px;*/;}
+
+.tell-a-friend-container{
+    max-width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(255,129,38,0.08);
+    background-image: url('../resources/telAFriend_vectorGroup.png');
+    display: flex;
+    flex-direction: column;
+    align-items: center;}
+
+.tell-a-friend-title{
+    color:#1F1F1F;
+    padding-top: 1em;
+    font-family: Cormorant, serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+    text-align: center;}
+
+.tell-a-friend-social-media{
+    margin-top: 2.5em;
+    padding-bottom: 3em;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;}
+    
+.tell-a-friend-social-media > img{
+    margin:0.375em;}
+
+/* Estilos que pertenencen al social-network-footer. */
+
+
+
+
+
+/* Estilos que pertenecen al main-footer, los headings deberían estar alineados con
+cada una de las listas. */
+
+
+.container-2{    
+    /* width: 1170px;
+    height: 457px; */
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.row {
+    padding-top: 50px;
+    display:flex;
+    align-content:flex-end;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.col-icon{
+    margin: 14px;
+    margin-left:auto;
+    padding: 8px;
+}
+
+.col-footer-list{
+    padding: 0.2rem;
+    margin: 0rem;
+}
+
+h4{
+    padding-bottom: 12px; 
+}
+
+.file-two{
+    margin-left: 36px;
+}
+
+ul {
+    margin: 21px;
+}
+li {
+    font-family: Verdana, Tahoma, sans-serif;
+    list-style: none;
+    padding-bottom: 12px;
+}
+
+@media screen and (max-width: 500px) {
+    div> ul> li {
+        display: none;
+    }
+}
