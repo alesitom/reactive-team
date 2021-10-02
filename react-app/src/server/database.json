@@ -1,0 +1,39 @@
+{
+"offers" : [
+    {"key": "1", "offerTitle": "Pepperoni Pizza", "offerPrice": "$19.99", "realOfferPrice": "$24.99", "offerImage":"/images/latestOffers_1.png", "offerImageDesc":"Pepperoni Pizza"},
+    {"key": "2", "offerTitle": "Baked Pancakes", "offerPrice": "$35.99", "realOfferPrice": "$45.99", "offerImage":"/images/latestOffers_2.png", "offerImageDesc":"Baked Pancakes"},
+    {"key": "3", "offerTitle": "Avocado", "offerPrice": "$17.99", "realOfferPrice": "$20.99", "offerImage":"/images/latestOffers_3.png", "offerImageDesc":"Avocado"},
+    {"key": "4", "offerTitle": "Bunch of Orange", "offerPrice": "$24.99", "realOfferPrice": "$29.99", "offerImage":"/images/latestOffers_4.png", "offerImageDesc":"Bunch of Orange"}
+    ],
+"reasons" : [
+    {"key":1, "reasonImage":"/images/whyChoose_telescopio.svg", "reasonImageDesc":"telescopio", "reasonTitle":"Discover new flavours & people", "reasonText":"Discover new tastes, flavours, snacks and recipes to make wonderful meals. Also find out where your food comes from and who makes it."},
+    {"key":2, "reasonImage":"/images/whyChoose_casa.svg", "reasonImageDesc":"casa", "reasonTitle":"Buy wholesale", "reasonText":"We offer bulk formats, variety cases, and discovery boxes so you can save money on delicious foods by buying at wholesale prices."},
+    {"key":3, "reasonImage":"/images/whyChoose_manos.svg", "reasonImageDesc":"manos", "reasonTitle":"Support your community", "reasonText":"By buying in bulk from local and Canadian producers you are helping grow our local food ecosystem, creating jobs, and supporting families and entrepreneurs in your community."},
+    {"key":4, "reasonImage":"/images/whyChoose_like.svg", "reasonImageDesc":"like", "reasonTitle":"Enjoy the best quality", "reasonText":"We only offer great tasting, all natural foods that are better for you, and organic if possible."},
+    {"key":5, "reasonImage":"/images/whyChoose_heart.svg", "reasonImageDesc":"heart", "reasonTitle":"Enjoy Club Level Service", "reasonText":"As a member of our club, we will make sure you are delighted with our service or we will make it right!"}
+    ],
+"makes" : [
+    {"key":"1", "text":"Because it connects us to the land we live on, and to the people who live here."},
+    {"key":"2", "text":"Because it’s more meaningful to cook and eat something made by a person nearby than by some distant corporation."},
+    {"key":"3", "text":"Because good local food makes our corner of the world a better place to live."},
+    {"key":"4", "text":"Because it supports local jobs."},
+    {"key":"5", "text":"Because it makes more sense for the environment."}
+    ],
+"posts" : [
+    {"key":"1", "postImage":"/images/instagram_img1.png"},
+    {"key":"2", "postImage":"/images/instagram_img2.png"},
+    {"key":"3", "postImage":"/images/instagram_img3.png"},
+    {"key":"4", "postImage":"/images/instagram_img4.png"},
+    {"key":"5", "postImage":"/images/instagram_img5.png"}
+    ],
+"medias" : [
+    {"key":"1", "socialMediaImage":"/images/facebook.svg", "socialMediaImageAlt":"Facebook"},
+    {"key":"2", "socialMediaImage":"/images/instagram.svg", "socialMediaImageAlt":"Instagram"},
+    {"key":"3", "socialMediaImage":"/images/twitter.svg", "socialMediaImageAlt":"Twitter"},
+    {"key":"4", "socialMediaImage":"/images/whatsapp.svg", "socialMediaImageAlt":"WhatsApp"},
+    {"key":"5", "socialMediaImage":"/images/messenger.svg", "socialMediaImageAlt":"Messenger"},
+    {"key":"6", "socialMediaImage":"/images/telegram.svg", "socialMediaImageAlt":"Telegram"},
+    {"key":"7", "socialMediaImage":"/images/telegram.svg", "socialMediaImageAlt":"TikTok"}
+
+]
+}

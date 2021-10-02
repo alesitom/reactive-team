@@ -84,20 +84,20 @@ Proyecto React NUMEN
   - Estado: **En proceso**
 
 - [Componente 2](#Componente-2):
-  - Tomado por: **Aún nadie**
-  - Estado: **Por hacer**
+  - Tomado por: **Ale**
+  - Estado: **En proceso - Falta ajustar vista mobile y JS de sumar al carrito.**
 
 - [Componente 3](#Componente-3):
-  - Tomado por: **Aún nadie**
-  - Estado: **Por hacer**
+  - Tomado por: **Ale**
+  - Estado: **En proceso - Falta ajustar vista mobile.**
 
 - [Componente 4](#Componente-4):
-  - Tomado por: **Aún nadie**
+  - Tomado por: **Ale**
   - Estado: **Por hacer**
 
 - [Componente 5](#Componente-5):
-  - Tomado por: **Aún nadie**
-  - Estado: **Por hacer**
+  - Tomado por: **Augusto**
+  - Estado: **En proceso**
 
 #### Componente 1:
 ![Componente 1](https://github.com/alesitom/reactive-team/blob/fd37f6cc4e0f42e86702be4afbe99bfb66a2cf76/resources/Componente%201/Componente%201.png)
