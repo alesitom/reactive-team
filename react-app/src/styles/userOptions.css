@@ -6,14 +6,41 @@
 .menu-search{
     padding: 5px;
     height: 60px;
+    cursor: pointer;
 }
 
 .menu-profile{
     padding: 5px;
     height: 60px;
+    cursor: pointer;
 }
 
 .menu-cart{
     padding: 5px;
     height: 60px;
+    cursor: pointer;
+    position: fixed;
+}
+
+/* .cart{
+    display: flex;
+} */
+
+.circle{
+    display: flex;
+    position: relative;
+    left: 40px;
+}
+
+.quantity-circle{
+    position: relative;
+    /* right: 20px;
+    bottom: 20px; */
+}
+
+.quantity-products{
+    position: relative;
+    right: 10px;
+    bottom: 4px;
+    color: #fff;
 }

@@ -72,6 +72,10 @@
     background-color: #fff;
 }
 
+.menu-inside{
+    margin: 10px;
+}
+
 .menu-link--inside{
     padding-top: 30px 100px 30px 20px;
 }
@@ -155,6 +159,7 @@
 
     /* Prueba */
     .menu-inside{
+        margin: initial;
         width: 270px;
     }
 
