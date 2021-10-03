@@ -219,11 +219,11 @@ img{max-width: 100%;}
     margin: auto;
     text-decoration: none;
     cursor: pointer;}
-    
+
 .our-charity-button:hover{
     background-color: black;}
 
-    
+
 .surprise-someone-section{
     margin-top: 5em;/*80px;*/;
     margin-bottom: 1.25em;/*20px;*/;}
@@ -266,7 +266,7 @@ img{max-width: 100%;}
 
 .surprise-someone-button-box{
     margin-top: 1.875em;}
-    
+
 .surprise-someone-button {
     background-color: #FF8126;
     /*width: 103px;
@@ -283,7 +283,7 @@ img{max-width: 100%;}
     /*margin: auto;*/
     text-decoration: none;
     cursor: pointer;}
-        
+
 .surprise-someone-button:hover{
     background-color: black;}
 
@@ -387,72 +387,90 @@ img{max-width: 100%;}
     margin-bottom: 1.25em;/*20px;*/;}
 
 .footer-container{
-    max-width: 1170px;
+    max-width: 1280px;
     display: flex;
+    /* flex-flow: row wrap; */
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    /* align-items: center; */
-    margin-left: auto;
+    /* margin: 2rem 0; */
+    margin-left:  auto;
     margin-right: auto;
     align-items:flex-start;
 }
 
-/* Estilos que pertenencen al social-network-footer. */
+/* corregir */
 
 
-
-
-
-/* Estilos que pertenecen al main-footer, los headings deberían estar alineados con
-cada una de las listas. */
-
-
-.container-2{    
-    /* width: 1170px;
-    height: 457px; */
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
+.footer-brand{
+    margin-left: 32px;
+    padding-bottom: 32px;
 }
 
-/* .row {
-    padding-top: 50px;
-    display:flex;
-    align-content:flex-end;
-    flex-wrap: wrap;
-    justify-content: center;
+.footer-box{
+    margin-left: 54px;
+    padding-bottom: 32px;
 }
 
-.col-icon{
-    margin: 14px;
-    margin-left:auto;
-    padding: 8px;
-}
-
-.col-footer-list{
-    padding: 0.2rem;
-    margin: 0rem;
-}
-
-h4{
-    padding-bottom: 12px; 
-}
-
-.file-two{
-    margin-left: 36px;
-}
-
-ul {
-    margin: 21px;
-}
-li {
-    font-family: Verdana, Tahoma, sans-serif;
-    list-style: none;
+.footer-box .file-two li{
     padding-bottom: 12px;
+    font-family: Poppins;
+    font-size: 15px;
+    }
+
+.footer-box .file-three li{
+    padding-bottom: 12px;
+    font-family: Poppins;
+    font-size: 15px;
+    }
+
+.footer-box .file-four li{
+    padding-bottom: 12px;
+    font-family: Poppins;
+    font-size: 15px;
 }
 
-@media screen and (max-width: 500px) {
+.ocassions{
+    padding-bottom: 14px;
+    font-family: Poppins;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 22px;
+}
+
+.all{
+    padding-bottom: 14px;
+    font-family: Poppins;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 22px;
+}
+
+.gift{
+    padding-bottom: 14px;
+    font-family: Poppins;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 22px;
+}
+
+.brands{
+    font-family: Poppins;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 22px;
+}
+
+.about{
+    font-family: Poppins;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 22px;
+}
+
+
+
+/* @media screen and (max-width: 500px) {
     div> ul> li {
         display: none;
     }
