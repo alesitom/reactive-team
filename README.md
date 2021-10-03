@@ -12,6 +12,7 @@ Proyecto React NUMEN
 - [Generalidades](#Generalidades)
 - [Componentes](#Componentes)
 - [Etapas](#Etapas)
+- [Mejoras post primer merge](#Mejoras-post-primer-merge)
 
 -----------------------------------------------------
 
