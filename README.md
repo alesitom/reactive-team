@@ -130,10 +130,10 @@ Requisitos:
 3. agregar css al footer / tener cuidado que est[a pisando el UL/LI del navbar --> augusto
 
 NTH:
-1. Limitar ancho maximo de cover --> braian
-2. sombra paralela al texto del cover para que se vea en mobile --> braian
-3. btn browse-brands agregar hover --> braian
+1. Limitar ancho maximo de cover --> braian (HECHO)
+2. sombra paralela al texto del cover para que se vea en mobile --> braian (HECHO)
+3. btn browse-brands agregar hover --> braian (HECHO)
 4. tell a friend a 1280px; --> ale
-5. Button carrito que no te persiga y ajustar visualmente el numero con el circulo --> braian
+5. Button carrito que no te persiga y ajustar visualmente el numero con el circulo --> braian (HECHO)
 7. tell a friend, ajustes menores + detalle hover --> ale
 6. menu hamburguesa tiene espacio adicional cuando cerras el alert superior --> braian
