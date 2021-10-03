@@ -15,6 +15,7 @@ import InstagramLatestPosts from './components/InstagramLatestPosts';
 import Footer from './components/footer';
 import SocialMedia from './components/tellAFriend';
 
+
 ReactDOM.render(
   <React.StrictMode>
     <Message></Message>
