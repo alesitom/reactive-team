@@ -32,7 +32,7 @@ return (
           <h4 className="offer-title">{offer.offerTitle}</h4>
           <p className="offer-price">{offer.offerPrice} <span className="real-offer-price">{offer.realOfferPrice}</span>
           </p>
-          <button className="quick-shop-button" onClick={() => showModal()}>Quick Shop</button>
+          <button className="quick-shop-button" onClick={() => showModal(offer.key, offer.offerTitle, offer.offerPrice)}>Quick Shop</button>
           </div>
         )
       }
