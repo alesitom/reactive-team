@@ -2,6 +2,9 @@ import '../styles/section-two.css';
 import { useEffect, useState } from 'react'
 import axios from 'axios'
 import { showModal } from './modal';
+// import { CartContext } from '../contexts/CartContext'
+
+// const cartUser = useContext(CartContext)
 
 
 const LatestOffers = () => {
