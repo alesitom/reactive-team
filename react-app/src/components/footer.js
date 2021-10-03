@@ -22,9 +22,9 @@ function Footer() {
         <img src={logo} alt="bakery-logo"/>
         </div>
         <div className="footer-box">
-        <ul className="file-two">
-                                <h4 className="ocassions">Ocassions</h4>
-                                <li>Ocassions</li>
+                            <ul className="file-two">
+                                <h4 className="ocassions">Occassions</h4>
+                                <li>Occassions</li>
                                 <li>Working from Home</li>
                                 <li>Snack Time</li>
                                 <li>Breakfast</li>
@@ -58,7 +58,7 @@ function Footer() {
                         {/* Gifts & Bundles */}
 
                             <ul className="file-four">
-                                <h4 className="gift">Gift & Bundles</h4>
+                                <h4 className="gift">Gifts & Bundles</h4>
                                 <li>Sweet Tooth Special</li>
                                 <li>Discover Local</li>
                                 <li>Baking Box</li>
@@ -69,13 +69,13 @@ function Footer() {
                         {/* Our Brands */}
         <div className="footer-box">
         <ul className="file-five">
-                                <h4>Our Brands</h4>
+                            <h4 className="brands">Our Brands</h4>
                             </ul>
         </div>
                         {/* About Us */}
         <div className="footer-box">
         <ul className="file-six">
-        <h4 className ="about-us">About Us</h4>
+        <h4 className ="about">About Us</h4>
         </ul>
         </div>
 </div>           

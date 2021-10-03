@@ -219,11 +219,11 @@ img{max-width: 100%;}
     margin: auto;
     text-decoration: none;
     cursor: pointer;}
-    
+
 .our-charity-button:hover{
     background-color: black;}
 
-    
+
 .surprise-someone-section{
     margin-top: 5em;/*80px;*/;
     margin-bottom: 1.25em;/*20px;*/;}
@@ -266,7 +266,7 @@ img{max-width: 100%;}
 
 .surprise-someone-button-box{
     margin-top: 1.875em;}
-    
+
 .surprise-someone-button {
     background-color: #FF8126;
     /*width: 103px;
@@ -283,7 +283,7 @@ img{max-width: 100%;}
     /*margin: auto;*/
     text-decoration: none;
     cursor: pointer;}
-        
+
 .surprise-someone-button:hover{
     background-color: black;}
 
@@ -384,79 +384,42 @@ img{max-width: 100%;}
 
 .footer-section{
     margin-top: 5em;/*80px;*/;
-    margin-bottom: 1.25em;/*20px;*/;}
+    margin-bottom: 4em;/*20px;*/;}
 
 .footer-container{
-    max-width: 1170px;
+    max-width: 1280px;
     display: flex;
+    /* flex-flow: row wrap; */
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    /* align-items: center; */
-    margin-left: auto;
+    /* margin: 2rem 0; */
+    margin-left:  auto;
     margin-right: auto;
     align-items:flex-start;
+    font-family: Poppins;
 }
 
-/* Estilos que pertenencen al social-network-footer. */
 
+.footer-box{
+    margin-bottom: 2rem;
+    font-family: Poppins;
+} 
 
-
-
-
-/* Estilos que pertenecen al main-footer, los headings deberían estar alineados con
-cada una de las listas. */
-
-
-.container-2{    
-    /* width: 1170px;
-    height: 457px; */
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
+.footer-box > ul > li {
+font-family: Poppins;
+font-size: 0.8rem;
 }
 
-/* .row {
-    padding-top: 50px;
-    display:flex;
-    align-content:flex-end;
-    flex-wrap: wrap;
-    justify-content: center;
+.footer-box > ul > h4 {
+
+margin-bottom: 1rem;
 }
 
-.col-icon{
-    margin: 14px;
-    margin-left:auto;
-    padding: 8px;
+.footer-brand {
+    margin-bottom: 1rem;
 }
 
-.col-footer-list{
-    padding: 0.2rem;
-    margin: 0rem;
-}
-
-h4{
-    padding-bottom: 12px; 
-}
-
-.file-two{
-    margin-left: 36px;
-}
-
-ul {
-    margin: 21px;
-}
-li {
-    font-family: Verdana, Tahoma, sans-serif;
-    list-style: none;
-    padding-bottom: 12px;
-}
-
-@media screen and (max-width: 500px) {
-    div> ul> li {
-        display: none;
-    }
-} */
 
 /*carousel*/
 .carousel-container{
@@ -495,8 +458,8 @@ li {
 
 @media (max-width: 768px){
 	.card-container {
-	  width: 156px;
-      height: auto;
+	width: 156px;
+    height: auto;
 	}
 }
 .card{
@@ -510,7 +473,7 @@ li {
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     padding: 0.9375em;/*15px;*/
     margin-top: 2.5em;}
-  
+
 .nav button{
 	position: absolute;
 	top: 50%;
