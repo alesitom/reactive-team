@@ -1,5 +1,6 @@
 import '../styles/section-two.css';
 import images from '../resources/images';
+import { showModal } from './modal';
 
 function SurpriseSomeone() {
     return (
@@ -14,7 +15,7 @@ function SurpriseSomeone() {
         <p className="surprise-someone-text">Do you have a colleague or family member working hard at home? Our Working From Home box of snacks and drinks is the perfect way to put a smile on their face, delivered direct to their door.
         To buy for a large group of people, get in touch and we can discuss bespoke bundles and personalised messaging.</p>
         <div className="surprise-someone-button-box">
-        <button className="surprise-someone-button">
+        <button className="surprise-someone-button" onClick={() => showModal(99, "Regalo Sorpresa", "$9.99")}>
           Buy Now
         </button>
         </div>
