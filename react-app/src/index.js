@@ -14,20 +14,23 @@ import SurpriseSomeone from './components/surpriseSomeone';
 import InstagramLatestPosts from './components/InstagramLatestPosts';
 import Footer from './components/footer';
 import SocialMedia from './components/tellAFriend';
+import CartContextProvider from './contexts/CartContext';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Message></Message>
-    <Navbar></Navbar>
-    <Cover></Cover>
-    <LatestOffers/>
-    <WhyChoose />
-    <WhoMakes />
-    <OurCharity />
-    <SurpriseSomeone />
-    <InstagramLatestPosts />
-    <SocialMedia />
-    <Footer />
+    <CartContextProvider>
+      <Message />
+      <Navbar />
+      <Cover />
+      <LatestOffers/>
+      <WhyChoose />
+      <WhoMakes />
+      <OurCharity />
+      <SurpriseSomeone />
+      <InstagramLatestPosts />
+      <SocialMedia />
+      <Footer />
+    </CartContextProvider>
   </React.StrictMode>,
   document.getElementById('root')
 );
