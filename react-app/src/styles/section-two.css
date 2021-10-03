@@ -345,8 +345,9 @@ img{max-width: 100%;}
     .our-our-charity-button{
         max-width:90%;}
     .why-choose-box{
-        margin-top: 2em;
-    }
+        margin-top: 2em;}
+    .footer-section{
+        max-width: 90%;}
     }
 
 
@@ -420,17 +421,12 @@ margin-bottom: 1rem;
     margin-bottom: 1rem;
 }
 
-
 /*carousel*/
 .carousel-container{
 	width: 1000px;
 	position: relative;
     margin-left: auto;
-    margin-right: auto;
-	/* border-left-width: 4px;
-	border-left-style: solid;
-	border-left-color: #aaa; */
-    }
+    margin-right: auto;}
 
 @media (max-width: 768px){
 	.carousel-container {
