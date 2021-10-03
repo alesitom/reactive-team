@@ -16,6 +16,7 @@ import Footer from './components/footer';
 import SocialMedia from './components/tellAFriend';
 import CartContextProvider from './contexts/CartContext';
 
+
 ReactDOM.render(
   <React.StrictMode>
     <CartContextProvider>
