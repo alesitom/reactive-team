@@ -3,7 +3,6 @@ import '../styles/userOptions.css'
 import search from '../resources/search.svg'
 import profile from '../resources/profile.svg'
 import cart from '../resources/cart-sin-numero.svg'
-import circle from '../resources/circulo.svg'
 
 function UserOptions() {
     return (
@@ -13,8 +12,7 @@ function UserOptions() {
             <div className="cart">
                 <img src={cart} alt="Cart" className="menu-cart"/>
                 <div className="circle">
-                    <img src={circle} alt="Quantity of products in the cart" className="quantity-circle"/>
-                    <p className="quantity-products">3</p>
+                    <p className="quantity-products">23</p>
                 </div>
             </div>
         </div>

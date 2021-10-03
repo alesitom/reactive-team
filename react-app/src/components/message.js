@@ -9,13 +9,13 @@ function Message() {
     <>
       { message && (
         <div className="container-message">
-        <div className="message">
-          Free Delivery over $100. Gif with Purchase over $150
+          <div className="message">
+            Free Delivery over $100. Gif with Purchase over $150
+          </div>
+          <div className="close" onClick={() => setMessage(false)}>
+            <img src={close} alt="Close"/>
+          </div>
         </div>
-        <div className="close" onClick={() => setMessage(false)}>
-          <img src={close} alt="Close"/>
-        </div>
-      </div>
       ) } 
     </>
   );

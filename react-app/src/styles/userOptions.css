@@ -1,6 +1,7 @@
 .user-options{
     display: flex;
     flex-wrap: wrap;
+    /* position: relative; */
 }
 
 .menu-search{
@@ -15,32 +16,32 @@
     cursor: pointer;
 }
 
+.cart{
+    position: relative;
+    display: flex;
+}
+
 .menu-cart{
     padding: 5px;
     height: 60px;
     cursor: pointer;
-    position: fixed;
 }
-
-/* .cart{
-    display: flex;
-} */
 
 .circle{
-    display: flex;
-    position: relative;
+    background-color: var(--primary-color);
+    border-radius: 100%;
+    height: 1em;
+    width: 1em;
+    position: absolute;
     left: 40px;
-}
-
-.quantity-circle{
-    position: relative;
-    /* right: 20px;
-    bottom: 20px; */
+    top: 5px;
+    display: grid;
 }
 
 .quantity-products{
-    position: relative;
-    right: 10px;
-    bottom: 4px;
+    font-family: Poppins;
+    font-size: 9px;
     color: #fff;
+    text-align: center;
+    line-height: 16px;
 }
