@@ -24,9 +24,7 @@ export function showModal(id, desc, price){
                     price: price
                 }
             }).then(response => {
-                // console.log(response.status)
                 if(response.status!==201){
-                    console.log(products)
                     swal({
                         text: "The product could not be added to the cart",
                         icon: "error",
