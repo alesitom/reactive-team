@@ -335,9 +335,9 @@ img{max-width: 100%;}
 
 @media (max-width:600px){
     .who-makes-section-title {
-            text-align: center;}
+        text-align: center;}
     .who-makes-container{
-            max-width:90%;}
+        max-width:90%;}
     .surprise-someone-container{
         max-width:90%;}
     .instagram-container{
@@ -347,6 +347,8 @@ img{max-width: 100%;}
     .why-choose-box{
         margin-top: 2em;}
     .footer-section{
+        max-width: 90%;}
+    .why-choose-section{
         max-width: 90%;}
     }
 
