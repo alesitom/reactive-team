@@ -3,12 +3,10 @@ import { useEffect, useState } from 'react'
 import axios from 'axios'
 import { showModal } from './modal';
 
-
 const LatestOffers = () => {
     const [offerList,setList] = useState({
         offers : [ /* este array viene del database.json */ ]
 })
-
 
 const url = "http://localhost:3002/offers"
 useEffect(() =>{
