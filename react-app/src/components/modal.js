@@ -4,7 +4,6 @@ import axios from 'axios';
 export function showModal(id, desc, price){
 
     const url = "http://localhost:3002/cart"
-    const result = false
 
     swal({
         title: `Add ${desc}`,
