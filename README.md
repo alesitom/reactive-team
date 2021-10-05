@@ -5,14 +5,21 @@ Proyecto React NUMEN
 
 ## Tabla de contenido
 
-- [Dudas](#Dudas-para-revisar-con-Guille-Tutor)
-- [Definiciones](#Definiciones-que-tomamos-como-equipo-son-modificables)
-- [Estilos Generales](#Estilos-Generales)
-- [Ramas](#Ramas-Branches)
-- [Generalidades](#Generalidades)
-- [Componentes](#Componentes)
-- [Etapas](#Etapas)
-- [Mejoras post primer merge](#Mejoras-post-primer-merge)
+- [Reactive Team](#reactive-team)
+  - [Tabla de contenido](#tabla-de-contenido)
+    - [Dudas para revisar con Guille (Tutor)](#dudas-para-revisar-con-guille-tutor)
+    - [Definiciones que tomamos como equipo (son modificables)](#definiciones-que-tomamos-como-equipo-son-modificables)
+    - [Estilos Generales](#estilos-generales)
+    - [Ramas-Branches](#ramas-branches)
+    - [Generalidades](#generalidades)
+    - [Componentes](#componentes)
+      - [Componente 1:](#componente-1)
+      - [Componente 2:](#componente-2)
+      - [Componente 3:](#componente-3)
+      - [Componente 4:](#componente-4)
+      - [Componente 5:](#componente-5)
+    - [Etapas:](#etapas)
+    - [Mejoras post primer merge:](#mejoras-post-primer-merge)
 
 -----------------------------------------------------
 
