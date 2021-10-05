@@ -1,10 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
-    console.log(document);
     const listElements = document.querySelectorAll('.menu-item--show');
     const list = document.querySelector('.menu-links');
     const menu = document.querySelector('.menu-hamburger');
-
-    console.log(listElements)
 
     const addClick = () => {
         listElements.forEach( element => {

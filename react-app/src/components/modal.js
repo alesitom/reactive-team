@@ -1,12 +1,10 @@
 import swal from 'sweetalert';
 import axios from 'axios';
-// import { CartContext } from '../contexts/CartContext'
 
 export function showModal(id, desc, price){
 
-    // const cartUser = useContext(CartContext)
-
     const url = "http://localhost:3002/cart"
+    const result = false
 
     swal({
         title: `Add ${desc}`,
@@ -23,7 +21,8 @@ export function showModal(id, desc, price){
                     desc: desc,
                     price: price
                 }
-            }).then(response => {
+            }
+            ).then(response => {
                 if(response.status!==201){
                     swal({
                         text: "The product could not be added to the cart",
@@ -36,6 +35,9 @@ export function showModal(id, desc, price){
                         icon: "success",
                         timer: "3000"
                     })
+                    const productQuantity = document.querySelector('.quantity-products')
+                    const number = parseInt(productQuantity.innerHTML)+1
+                    productQuantity.innerHTML = number
                 }
             })
         }
