@@ -153,39 +153,5 @@
         "key": "15",
         "postImage": "/images/instagram_img5.png"
       }
-    ],
-    "medias": [
-      {
-        "key": "1",
-        "socialMediaImage": "/images/facebook.svg",
-        "socialMediaImageAlt": "Facebook"
-      },
-      {
-        "key": "2",
-        "socialMediaImage": "/images/instagram.svg",
-        "socialMediaImageAlt": "Instagram"
-      },
-      {
-        "key": "3",
-        "socialMediaImage": "/images/twitter.svg",
-        "socialMediaImageAlt": "Twitter"
-      },
-      {
-        "key": "4",
-        "socialMediaImage": "/images/whatsapp.svg",
-        "socialMediaImageAlt": "WhatsApp"
-      },
-      {
-        "key": "5",
-        "socialMediaImage": "/images/messenger.svg",
-        "socialMediaImageAlt": "Messenger"
-      },
-      {
-        "key": "6",
-        "socialMediaImage": "/images/telegram.svg",
-        "socialMediaImageAlt": "Telegram"
-      }
-    ],
-    "cart": [
     ]
   }
